@@ -1,0 +1,8 @@
+{
+    "name": "html5-rc-spa",
+    "dependencies": {
+        "sanitize.css":       "1.0.0",
+        "jquery":             "2.0.3",
+        "typopro":            "0.9.5"
+    }
+}

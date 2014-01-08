@@ -1,0 +1,109 @@
+
+body {
+    background-color: #ffffff;
+    font-family: "TypoPRO Open Sans";
+    font-size: 10pt;
+    margin: 20px 50px 50px 50px;
+    width: 900px;
+}
+
+a {
+    text-decoration: none;
+    color: #2B96F1;
+}
+
+.title {
+    font-family: "TypoPRO Open Sans";
+    font-weight: bold;
+    font-size: 30pt;
+    letter-spacing: -2px;
+    color: #444444;
+}
+.subtitle {
+    font-family: "TypoPRO Open Sans";
+    font-weight: 200;
+    font-size: 14pt;
+    color: #444444;
+}
+.author {
+    font-family: "TypoPRO Open Sans";
+    font-weight: 200;
+    font-size: 10pt;
+    color: #444444;
+}
+.slogan {
+    font-family: "TypoPRO Journal";
+    font-size: 30pt;
+    color: #2B96F1;
+    position: absolute;
+    left: 500px;
+    top: 90px;
+    transform: rotate(-3deg);
+    -ms-transform: rotate(-3deg);
+    -webkit-transform: rotate(-3deg);
+    letter-spacing: 1px;
+}
+.abstract {
+    margin-top: 50px;
+    font-family: "TypoPRO Open Sans";
+    font-weight: 200;
+    font-size: 12pt;
+}
+.copyright {
+    margin-top: 30px;
+    font-weight: 200;
+    font-size: 9pt;
+}
+.footnote {
+    font-weight: 200;
+    font-size: 9pt;
+}
+
+.list {
+    margin-top: 30px;
+}
+.list table {
+    border-collapse: collapse;
+}
+.list table tr.row-0 {
+    background-color: #f8f8f8;
+}
+.list table tr.row-1 {
+    background-color: #ffffff;
+}
+.list table tr.header {
+    background-color: #666666;
+}
+.list table tr th {
+    padding: 2px 20px 2px 20px;
+    font-weight: bold;
+    color: #ffffff;
+}
+.list table tr td {
+    padding: 2px 20px 2px 20px;
+}
+.list table tr td.area {
+    font-weight: 200;
+}
+.list table tr td.name {
+    font-weight: bold;
+}
+.list table tr td.name a {
+    color: #2B96F1;
+}
+.list table tr.rse td.name a:after {
+    color: #cc3333;
+    content: " *";
+}
+.list table tr td.id {
+    font-family: "TypoPRO DejaVu Sans Mono";
+}
+.list table tr td.version {
+}
+.list table tr td.date {
+    font-weight: 200;
+}
+.list table tr td.license {
+    font-weight: 200;
+}
+
