@@ -1,6 +1,8 @@
 HTML5 SPA Essentials
 ====================
 
+http://rse.github.io/html5-spa-essentials/
+
 *An opinionated list of essential functionalities for HTML5 Single-Page-Apps (SPA)*
 
 Welcome to my very *opinionated* list of essential functionalities for
