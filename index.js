@@ -1,6 +1,6 @@
 
 $(document).ready(function () {
-    $.get("https://raw.github.com/rse/html5-spa-essentials/master/html5-spa-essentials.txt", function (data) {
+    $.get("html5-spa-essentials.txt", function (data) {
         var list = $("<table></table>");
 
         var lines = data.split(/\r?\n/);
