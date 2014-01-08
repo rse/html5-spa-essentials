@@ -14,7 +14,7 @@ Unit Testing (Assertion):       Chai          chai          1.8.1   (2013-09) MI
 Unit Testing (Mocking)          Sinon         sinon         1.7.3   (2013-05) BSD             http://sinonjs.org/
 Unit Testing (Test-Data)        Chance        chance        0.5.4   (2014-01) MIT             http://chancejs.com/
 
-Rich_Client_Functionality       Product_Name  Bower_Id      Version Date      License         URL
+SPA Functionality               Product_Name  Bower_Id      Version Date      License         URL
 =============================== ============= ============= ======= ========= =============== ========================
 
 DOM Manipulation:               jQuery        jquery        2.0.3   (2013-07) MIT             http://jquery.com/
