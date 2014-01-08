@@ -14,6 +14,8 @@ and add it to the following list. To let others also benefit from these
 evaluation results, I provide this list publically. If you disagree with
 any product selection, please feel free to just publish your own list.
 
+Published under MIT license.
+
 Ralf S. Engelschall<br/>
 rse@engelschall.com<br/>
 http://engelschall.com
