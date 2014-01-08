@@ -92,7 +92,7 @@ Cryptography:                   CryptoJS      crypto-js     3.1.2   (2013-08) MI
 Functional Programming:         Lodash        lodash        2.4.1   (2013-12) MIT             http:/lodash.com/
 String Formatting:              sprintfjs     sprintfjs     1.0.0   (2013-12) MIT             https://github.com/rse/sprintfjs (*)
 Value Validation:               Ducky         ducky         2.0.2   (2013-12) MIT             https://duckyjs.com/             (*)
-Text Fonts:                     TypoPRO       typopro       0.9.3   (2013-12) Apache+OFL+PD   https://github.com/rse/typopro   (*)
+Text Fonts:                     TypoPRO       typopro       0.9.5   (2013-12) Apache+OFL+PD   https://github.com/rse/typopro   (*)
 Icon Fonts:                     Font-Awesome  font-awesome  4.0.3   (2013-12) MIT+OFL         http://fontawesome.io/
 Unique Identifiers:             UUID-js       uuid-js       0.7.5   (2013-06) Apache          https://github.com/aurigadl/uuid-js
 Promises:                       Bluebird      bluebird      0.11.6  (2013-12) MIT             https://github.com/petkaantonov/bluebird
