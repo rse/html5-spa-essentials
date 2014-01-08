@@ -6,7 +6,7 @@ http://rse.github.io/html5-spa-essentials/
 *An opinionated list of essential functionalities for HTML5 Single-Page-Apps (SPA)*
 
 Welcome to my very *opinionated* list of essential functionalities for
-developing HTML5 Single-Page-Apps (SPA). I'm regularily seeking the
+developing HTML5 Single-Page-Apps (SPA). I'm regularly seeking the
 net for new useful solutions and evaluating a lot of them. For each
 functionality area there are usually one or more reasonable solutions.
 Nevertheless, I force myself to pick a single *personal* preference
