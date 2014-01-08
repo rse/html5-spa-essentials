@@ -6,7 +6,7 @@ Runtime Engine:                 Node          -             0.11.10 (2013-12) MI
 Package Manager:                NPM           npm           1.3.21  (2013-12) MIT             http://npmjs.org/
 Package Manager:                Bower         bower         1.2.8   (2013-12) MIT             http://bower.io/
 Build Tool:                     Grunt         grunt-cli     0.4.2   (2013-12) MIT             http://gruntjs.com/
-JavaScript Linting (1):         JSHint        jshint        2.4.0   (2013-12) MIT             http://jshint.com/
+JavaScript Linting (1):         JSHint        jshint        2.4.1   (2014-01) MIT             http://jshint.com/
 JavaScript Linting (2):         ESLint        eslint        0.2.0   (2014-01) MIT             https://github.com/nzakas/eslint
 JavaScript Compression:         UglifyJS      uglifyjs      2.4.8   (2013-12) BSD             http://lisperator.net/uglifyjs/
 Unit Testing (Framework):       Mocha         mocha         1.16.2  (2013-12) MIT             http://visionmedia.github.io/mocha/
@@ -32,9 +32,9 @@ Layouting (Pages):              Swiper.js     swiper        2.4.1   (2013-12) MI
 Layouting (Tiles):              Gridster      gridster      0.2.1   (2013-10) MIT             http://gridster.net/
 
 Feature Detection:              Modernizr     modernizr     2.7.1   (2013-11) MIT             http://modernizr.com/
-Viewport Monitoring:            jQuery-Stage  jquery-stage  1.1.1   (2013-12) MIT             https://github.com/rse/jquery-stage
+Viewport Monitoring:            jQuery-Stage  jquery-stage  1.1.2   (2014-01) MIT             https://github.com/rse/jquery-stage
 
-Markup Management:              jQuery-Markup jquery-markup 1.0.26  (2013-12) MIT             https://github.com/rse/jquery-markup
+Markup Management:              jQuery-Markup jquery-markup 1.0.28  (2014-01) MIT             https://github.com/rse/jquery-markup
 Markup Templating:              Nunjucks      nunjucks      1.0.1   (2013-12) BSD             http://jlongster.github.io/nunjucks/
 Data Binding:                   RactiveJS     ractive       0.3.9   (2013-12) MIT             http://www.ractivejs.org/
 Data Validation:                ParsleyJS     parsleyjs     1.2.2   (2013-12) MIT             http://parsleyjs.org/
@@ -92,7 +92,7 @@ Cryptography:                   CryptoJS      crypto-js     3.1.2   (2013-08) MI
 Functional Programming:         Lodash        lodash        2.4.1   (2013-12) MIT             http:/lodash.com/
 String Formatting:              sprintfjs     sprintfjs     1.0.0   (2013-12) MIT             https://github.com/rse/sprintfjs (*)
 Value Validation:               Ducky         ducky         2.0.2   (2013-12) MIT             https://duckyjs.com/             (*)
-Text Fonts:                     TypoPRO       typopro       0.9.3   (2013-12) Apache+OFL+PD   https://github.com/rse/typopro   (*)
+Text Fonts:                     TypoPRO       typopro       0.9.5   (2013-12) Apache+OFL+PD   https://github.com/rse/typopro   (*)
 Icon Fonts:                     Font-Awesome  font-awesome  4.0.3   (2013-12) MIT+OFL         http://fontawesome.io/
 Unique Identifiers:             UUID-js       uuid-js       0.7.5   (2013-06) Apache          https://github.com/aurigadl/uuid-js
 Promises:                       Bluebird      bluebird      0.11.6  (2013-12) MIT             https://github.com/petkaantonov/bluebird
