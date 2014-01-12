@@ -17,7 +17,7 @@ Testing (Framework):            Mocha         mocha         1.16.2  (2013-12) MI
 Testing (Assertion):            Chai          chai          1.8.1   (2013-09) MIT             http://chaijs.com/
 Testing (Mocking):              Sinon         sinon         1.7.3   (2013-05) BSD             http://sinonjs.org/
 Testing (Test-Data):            Chance        chance        0.5.4   (2014-01) MIT             http://chancejs.com/
-Testing (Server):               Express       express       0.5.4   (2014-01) MIT             http://chancejs.com/
+Testing (Server):               Express       express       0.5.4   (2014-01) MIT             http://expressjs.com/
 
 SPA_Functionality               Product_Name  Bower_Id      Version Date      License         URL
 =============================== ============= ============= ======= ========= =============== ========================
