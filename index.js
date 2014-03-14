@@ -41,7 +41,7 @@ $(document).ready(function () {
                     "<tr class=\"" + c + "\">\n" +
                     "  <td class=\"area\">" + item.area + "</td>\n" +
                     "  <td class=\"name\"><a href=\"" + item.url + "\">" + item.name + "</a></td>\n" +
-                    "  <td class=\"id\"><a href=\"http://sindresorhus.com/bower-components/#!/search/" + item.bower + "\">" + item.bower + "</a></td>\n" +
+                    "  <td class=\"id\"><a href=\"http://bower.io/search/?q=" + item.bower + "\">" + item.bower + "</a></td>\n" +
                     "  <td class=\"version\">" + item.version + "</td>\n" +
                     "  <td class=\"date\">" + item.date + "</td>\n" +
                     "  <td class=\"license\">" + item.license + "</td>\n" +
