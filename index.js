@@ -5,9 +5,11 @@ $(document).ready(function () {
 
         var lines = data.split(/\r?\n/);
         var k = 0;
+        var head = 0;
         for (var i = 0; i < lines.length; i++) {
             var m;
             if (typeof lines[i+1] === "string" && lines[i+1].match(/^====/)) {
+                head++;
                 m = lines[i].split(/\s+/);
                 list.append(
                     "<tr class=\"header\">\n" +
@@ -27,7 +29,7 @@ $(document).ready(function () {
                 var item = {
                     area:    m[1],
                     name:    m[2],
-                    bower:   m[3],
+                    id:      m[3],
                     version: m[4],
                     date:    m[5],
                     license: m[6],
@@ -37,11 +39,15 @@ $(document).ready(function () {
                 var c = "row-" + k;
                 if (item.rse)
                     c += " rse";
+                var url = (head === 1
+                    ? "https://www.npmjs.org/package/" + item.id
+                    : "http://bower.io/search/?q="     + item.id
+                );
                 list.append(
                     "<tr class=\"" + c + "\">\n" +
                     "  <td class=\"area\">" + item.area + "</td>\n" +
                     "  <td class=\"name\"><a href=\"" + item.url + "\">" + item.name + "</a></td>\n" +
-                    "  <td class=\"id\"><a href=\"http://bower.io/search/?q=" + item.bower + "\">" + item.bower + "</a></td>\n" +
+                    "  <td class=\"id\"><a href=\"" + url + "\">" + item.id + "</a></td>\n" +
                     "  <td class=\"version\">" + item.version + "</td>\n" +
                     "  <td class=\"date\">" + item.date + "</td>\n" +
                     "  <td class=\"license\">" + item.license + "</td>\n" +
