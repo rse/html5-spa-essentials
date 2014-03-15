@@ -15,12 +15,12 @@ $(document).ready(function () {
                 m = lines[i].split(/\s+/);
                 list.append(
                     "<tr class=\"header\">\n" +
-                    "  <th class=\"area\">" + m[0].replace(/_/g, " ") + "</td>\n" +
-                    "  <th class=\"name\">" + m[1].replace(/_/g, " ") + "</td>\n" +
-                    "  <th class=\"id\">" + m[2].replace(/_/g, " ") + "</td>\n" +
-                    "  <th class=\"version\">" + m[3].replace(/_/g, " ") + "</td>\n" +
-                    "  <th class=\"date\">" + m[4].replace(/_/g, " ") + "</td>\n" +
-                    "  <th class=\"license\">" + m[5].replace(/_/, " ") + "</td>\n" +
+                    "  <th class=\"area\">" + m[0].replace(/_/g, "&nbsp;") + "</td>\n" +
+                    "  <th class=\"name\">" + m[1].replace(/_/g, "&nbsp;") + "</td>\n" +
+                    "  <th class=\"id\">" + m[2].replace(/_/g, "&nbsp;") + "</td>\n" +
+                    "  <th class=\"version\">" + m[3].replace(/_/g, "&nbsp;") + "</td>\n" +
+                    "  <th class=\"date\">" + m[4].replace(/_/g, "&nbsp;") + "</td>\n" +
+                    "  <th class=\"license\">" + m[5].replace(/_/, "&nbsp;") + "</td>\n" +
                     "</tr>\n"
                 );
             }
