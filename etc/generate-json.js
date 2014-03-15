@@ -56,7 +56,7 @@ json = "";
 _.forEach(npm, function (item) {
     if (item.id === "-" || item.id === "npm")
         return;
-    json += sprintf("        %-20s %s,\n", "\"" + item.id + "\":", "\"~" + item.version + "\""); 
+    json += sprintf("        %-25s %s,\n", "\"" + item.id + "\":", "\"~" + item.version + "\""); 
 });
 json =
     "{\n" +
@@ -76,7 +76,7 @@ _.forEach(bower, function (item) {
         version = "master";
     else
         version = "~" + version;
-    json += sprintf("        %-20s %s,\n", "\"" + item.id + "\":", "\"" + version + "\""); 
+    json += sprintf("        %-25s %s,\n", "\"" + item.id + "\":", "\"" + version + "\""); 
 });
 json =
     "{\n" +
