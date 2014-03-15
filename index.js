@@ -8,7 +8,9 @@ $(document).ready(function () {
         var head = 0;
         for (var i = 0; i < lines.length; i++) {
             var m;
-            if (typeof lines[i+1] === "string" && lines[i+1].match(/^====/)) {
+            if (typeof lines[i+1] === "string" && lines[i+1].match(/^#/))
+                continue;
+            else if (typeof lines[i+1] === "string" && lines[i+1].match(/^====/)) {
                 head++;
                 m = lines[i].split(/\s+/);
                 list.append(
