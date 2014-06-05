@@ -26,6 +26,7 @@ a {
     color: #444444;
 }
 .author {
+    margin-top: 4px;
     font-family: "TypoPRO Open Sans";
     font-weight: 200;
     font-size: 10pt;
