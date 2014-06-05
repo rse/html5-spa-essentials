@@ -2,20 +2,21 @@
     "name": "your-spa-name",
     "version": "0.0.0",
     "dependencies": {
-        "bower":                  "~1.3.1",
-        "grunt":                  "~0.4.4",
+        "bower":                  "~1.3.4",
+        "grunt":                  "~0.4.5",
+        "gulp":                   "~3.7.0",
         "yo":                     "~1.1.2",
-        "jshint":                 "~2.4.4",
-        "eslint":                 "~0.4.2",
-        "browserify":             "~3.32.1",
+        "jshint":                 "~2.5.1",
+        "eslint":                 "~0.6.2",
+        "browserify":             "~4.1.8",
         "uglify-js":              "~2.4.13",
-        "clean-css":              "~2.1.6",
-        "html-minifier":          "~0.5.6",
+        "clean-css":              "~2.1.9",
+        "html-minifier":          "~0.6.1",
         "phantomjs":              "~1.9.7",
-        "mocha":                  "~1.18.0",
-        "chai":                   "~1.9.0",
-        "sinon":                  "~1.9.0",
-        "chance":                 "~0.5.4",
-        "express":                "~3.5.0"
+        "mocha":                  "~1.20.1",
+        "chai":                   "~1.9.1",
+        "sinon":                  "~1.10.2",
+        "chance":                 "~0.5.6",
+        "express":                "~4.4.1"
     }
 }
