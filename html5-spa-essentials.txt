@@ -133,7 +133,8 @@ Value Validation:               Ducky         ducky                 2.1.1   (201
 Text Fonts:                     TypoPRO       typopro               2.1.0   (2014-05) Apache+OFL+PD   https://github.com/rse/typopro   (*)
 Icon Fonts:                     Font-Awesome  font-awesome          4.1.0   (2014-05) MIT+OFL         http://fontawesome.io/
 Unique Identifiers:             UUID-js       uuid-js               0.7.5   (2013-06) Apache          https://github.com/aurigadl/uuid-js
-Promises:                       Bluebird      bluebird              2.0.1   (2014-06) MIT             https://github.com/petkaantonov/bluebird
+Promises (Full-Featured):       Bluebird      bluebird              2.0.1   (2014-06) MIT             https://github.com/petkaantonov/bluebird
+Promises (Embeddable, Minimum): Thenable      -                     1.0.3   (2014-06) MIT             https://github.com/rse/thenable
 Polyfill ECMAScript 5:          ES5-Shim      es5-shim              3.4.0   (2014-05) MIT             https://github.com/kriskowal/es5-shim/
 Polyfill ECMAScript 6:          ES6-Shim      es6-shim              0.12.0  (2014-06) MIT             https://github.com/paulmillr/es6-shim/
 Object Orientation:             JSClass       jsclass               4.0.5   (2014-03) MIT             http://jsclass.jcoglan.com/
