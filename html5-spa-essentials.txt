@@ -138,6 +138,8 @@ Data Model Querying:            JSONSelect    jsonselect            0.2.1   (201
 
 Text Parsing (Regular):         XRegExp       xregexp               2.0.0   (2012-05) MIT             http://xregexp.com/
 Text Parsing (Context-Free):    PEG.js        pegjs                 0.8.0   (2013-12) MIT             http://pegjs.majda.cz/
+JavaScript Parsing (1):         Esprima       esprima               1.2.2   (2014-05) BSD             http://esprima.org/
+JavaScript Parsing (2):         Acorn         acorn                 0.6.0   (2014-06) MIT             https://github.com/marijnh/acorn
 
 Mathematical Calculations:      MathJS        mathjs                0.22.0  (2014-05) MIT             http://mathjs.org/
 Mathematical Calculations:      NumericJS     numericjs             1.2.6   (2012-12) MIT             http://www.numericjs.com/
