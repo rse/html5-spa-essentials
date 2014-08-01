@@ -116,7 +116,8 @@ URL Routing:                    Director      director              1.2.2   (201
 URL Manipulation:               URI.js        uri.js                1.13.2  (2014-05) MIT/GPL         http://medialize.github.io/URI.js/
 
 PDF Rendering:                  PDF.js        pdfjs                 1.0.227 (2014-06) Apache          http://mozilla.github.io/pdf.js/
-PDF Generation:                 jsPDF         jspdf                 1.0.150 (2014-06) MIT             http://jspdf.com/
+PDF Generation (1):             PDFKit        pdfkit                0.6.3   (2014-07) MIT             http://pdfkit.org/
+PDF Generation (2):             jsPDF         jspdf                 1.0.150 (2014-06) MIT             http://jspdf.com/
 ZIP Compression/Uncompression:  JSZip         jszip                 2.3.0   (2014-06) MIT/GPL         http://stuk.github.io/jszip/
 XLSX Parsing & Generation       JS-XLSX       js-xlsx               0.7.7   (2014-07) Apache          https://github.com/SheetJS/js-xlsx
 XLS  Parsing                    JS-XLS        js-xls                0.7.7   (2014-07) Apache          https://github.com/SheetJS/js-xls
@@ -138,6 +139,8 @@ Data Model Querying:            JSONSelect    jsonselect            0.2.1   (201
 
 Text Parsing (Regular):         XRegExp       xregexp               2.0.0   (2012-05) MIT             http://xregexp.com/
 Text Parsing (Context-Free):    PEG.js        pegjs                 0.8.0   (2013-12) MIT             http://pegjs.majda.cz/
+Markdown Parsing (1):           Markdown-JS   markdown              0.6.0b1 (2013-09) MIT             https://github.com/evilstreak/markdown-js
+Markdown Parsing (2):           Marked        marked                0.3.2   (2014-03) MIT             https://github.com/chjj/marked/blob/master/package.json
 JavaScript Parsing (1):         Esprima       esprima               1.2.2   (2014-05) BSD             http://esprima.org/
 JavaScript Parsing (2):         Acorn         acorn                 0.6.0   (2014-06) MIT             https://github.com/marijnh/acorn
 
