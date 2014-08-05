@@ -42,14 +42,16 @@ Testing (Framework):            Mocha         mocha                 1.20.1  (201
 Testing (Assertion):            Chai          chai                  1.9.1   (2014-03) MIT             http://chaijs.com/
 Testing (Mocking):              Sinon         sinon                 1.10.2  (2014-06) BSD             http://sinonjs.org/
 Testing (Test-Data):            Chance        chance                0.5.6   (2014-03) MIT             http://chancejs.com/
-Testing (Server):               Express       express               4.4.1   (2014-06) MIT             http://expressjs.com/
+Testing (Server) (1):           Express       express               4.4.1   (2014-06) MIT             http://expressjs.com/
+Testing (Server) (2):           HAPI          hapi                  6.5.0   (2014-07) BSD             http://hapijs.com/
 
 SPA_Functionality               Product_Name  Bower_Id              Version Date      License         URL
 =============================== ============= ===================== ======= ========= =============== ========================
 
 DOM Manipulation (1):           jQuery        jquery                2.1.1   (2014-05) MIT             http://jquery.com/
-DOM Manipulation (2):           Zepto         zepto                 1.1.3   (2014-05) MIT             http://zeptojs.com/
-DOM Manipulation (3):           Minified      minified              beta6   (2014-05) CC0/PD          http://minifiedjs.com/
+DOM Manipulation (2):           Zepto         zepto                 1.1.4   (2014-07) MIT             http://zeptojs.com/
+DOM Manipulation (3):           Minified      minified              2014.1.0 (2014-07) CC0/PD         http://minifiedjs.com/
+DOM Event Delegation:           DOM-Delegate  dom-delegate          2.0.1   (2014-07) MIT             https://github.com/ftlabs/ftdomdelegate
 
 UI Framework (1):               jQuery-UI     jqueryui              1.10.4  (2014-04) MIT             http://jqueryui.com/
 UI Framework (2):               Bootstrap     bootstrap             3.1.1   (2014-02) MIT             http://getbootstrap.com/
