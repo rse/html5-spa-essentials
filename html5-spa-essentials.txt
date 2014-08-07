@@ -45,7 +45,7 @@ Testing (Test-Data):            Chance        chance                0.5.6   (201
 Testing (Server) (1):           Express       express               4.4.1   (2014-06) MIT             http://expressjs.com/
 Testing (Server) (2):           HAPI          hapi                  6.5.0   (2014-07) BSD             http://hapijs.com/
 
-SPA_Functionality               Product_Name  Bower_Id              Version Date      License         URL
+Frontend_Functionality          Product_Name  Bower_Id              Version Date      License         URL
 =============================== ============= ===================== ======= ========= =============== ========================
 
 DOM Manipulation (1):           jQuery        jquery                2.1.1   (2014-05) MIT             http://jquery.com/
@@ -108,6 +108,7 @@ Data Visualization (Charting):  DC.js         dcjs                  1.7.1   (201
 
 Syntax Editing:                 CodeMirror    codemirror            4.2.0   (2014-05) MIT             http://codemirror.net/
 Syntax Formatting:              HighlightJS   highlightjs           8.0.0   (2014-01) MIT             http://highlightjs.org/
+Data Pretty-Printing:           Humanize      humanize              0.0.9   (2013-09) MIT             https://github.com/taijinlee/humanize
 
 Internationalization:           i18next       i18next               1.7.3   (2014-04) MIT             http://i18next.com/
 Localization (Number):          NumeralJS     numeral               1.5.3   (2013-12) MIT             http://numeraljs.com/
@@ -169,4 +170,34 @@ AJAX Communication:             SuperAgent    superagent            0.18.2  (201
 WAMP Communication:             AutobahnJS    autobahn              0.9.3   (2014-06) MIT             http://autobahn.ws/js/
 Websocket Communication (1):    Socket.IO     socket.io             1.0.6   (2014-07) MIT             http://socket.io/
 Websocket Communication (2):    SockJS        sockjs-client         0.3.4   (2014-07) MIT             http://sockjs.org/
+
+Backend_Functionality           Product_Name  NPM_Id                Version Date      License         URL
+=============================== ============= ===================== ======= ========= =============== ========================
+
+REST Services:                  HAPI          hapi                  6.5.0   (2014-07) BSD             http://hapijs.com/
+Database Engine:                NeDB          nedb                  CURRENT (2014-04) MIT             https://github.com/louischatriot/nedb
+Database Adapter (Redis):       Node-Redis    redis                 0.11.0  (2014-08) MIT             https://github.com/mranney/node_redis
+Database Adapter (PostgreSQL):  Node-Postgres pg                    3.4.0   (2014-08) MIT             https://github.com/brianc/node-postgres
+Database Adapter (MongoDB):     Node-MongoDB  mongodb               1.4.8   (2014-08) Apache          https://github.com/mongodb/node-mongodb-native/
+Database Adapter (Neo4J):       Node-Neo4J    neo4j                 1.1.0   (2013-11) Apache          https://github.com/thingdom/node-neo4j
+ORM (PostgreSQL):               Sequelize     sequelize             2.0.0-d (2014-08) MIT             http://sequelizejs.com/
+ORM (PostgreSQL/Redis/MongoDB/Neo4J): JugglingDB jugglingdb         0.2.13  (2014-03) MIT             http://jugglingdb.co/
+ORM (MongoDB):                  Moongoose     mongoosejs            3.8.13  (2014-08) MIT             http://mongoosejs.com/
+RDBMS SQL Generator:            Knex          knex                  0.6.22  (2014-07) MIT             http://knexjs.org/
+Authentication:                 Passport      passport              0.2.0   (2014-01) MIT             http://passportjs.org/
+Parsing (Command Line Options): DashDash      dashdash              1.6.0   (2014-06) MIT             https://github.com/trentm/node-dashdash
+Parsing (YAML):                 Node-YAML     js-yaml               3.1.0   (2014-07) MIT             https://github.com/nodeca/js-yaml
+Parsing (INI):                  Node-INI      node-ini              1.0.0   (2012-07) MIT             https://github.com/pastorbones/node-ini
+Parsing (CSV):                  Node-CSV      node-csv              0.3.6   (2013-08) BSD             http://www.adaltas.com/projects/node-csv/
+Parsing (Markdown):             Marked        marked                0.3.2   (2014-03) MIT             https://github.com/chjj/marked/blob/master/package.json
+Logging:                        Winston       winston               0.7.3   (2014-03) MIT             https://github.com/flatiron/winston
+Terminal Input Prompting:       Inquirer      inquirer              0.6.0   (2014-08) MIT             https://github.com/SBoudrias/Inquirer.js
+Terminal Output Colorization:   Chalk         chalk                 0.5.1   (2014-07) MIT             https://github.com/sindresorhus/chalk
+Terminal Output Progression:    Progress      progress              1.1.5   (2014-03) MIT             https://github.com/visionmedia/node-progress
+HTTP Client:                    Request       request               2.40.1  (2014-08) Apache          https://github.com/mikeal/request
+Unique Identifiers:             Node-UUID     node-uuid             1.4.1   (2013-08) MIT             https://github.com/broofa/node-uuid
+Cryptography (1):               CryptoJS      crypto-js             3.1.2   (2014-08) MIT             https://github.com/evanvosberg/crypto-js
+Cryptography (2):               SJCL          sjcl                  1.0.1   (2014-01) MIT             https://github.com/bitwiseshiftleft/sjcl/tree/version-0.8
+Data Structure Validation (1):  Ducky         ducky                 2.1.1   (2014-05) MIT             http://duckyjs.com/ (*)
+Data Structure Validation (2):  JOI           joi                   4.6.2   (2014-08) BSD             https://github.com/hapijs/joi
 
