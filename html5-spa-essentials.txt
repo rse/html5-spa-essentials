@@ -151,7 +151,8 @@ Mathematical Calculations:      MathJS        mathjs                0.22.0  (201
 Mathematical Calculations:      NumericJS     numericjs             1.2.6   (2012-12) MIT             http://www.numericjs.com/
 Cryptography:                   CryptoJS      crypto-js-evanvosberg 3.1.2-2 (2013-12) MIT             https://code.google.com/p/crypto-js/
 
-Functional Programming:         Lodash        lodash                2.4.1   (2013-12) MIT             http://lodash.com/
+Functional Programming (1):     Lodash        lodash                2.4.1   (2013-12) MIT             http://lodash.com/
+Functional Programming (2):     HighlandJS    highland              1.26.3  (2014-08) Apache          http://highlandjs.org/
 String Formatting:              sprintfjs     sprintfjs             1.1.3   (2014-05) MIT             https://github.com/rse/sprintfjs (*)
 String Manipulation:            stringjs      string                1.9.0   (2014-07) MIT             http://stringjs.com/
 Value Validation:               Ducky         ducky                 2.1.1   (2014-01) MIT             http://duckyjs.com/              (*)
