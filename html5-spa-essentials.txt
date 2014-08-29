@@ -146,6 +146,7 @@ Markdown Parsing (1):           Markdown-JS   markdown              0.6.0b1 (201
 Markdown Parsing (2):           Marked        marked                0.3.2   (2014-03) MIT             https://github.com/chjj/marked/blob/master/package.json
 JavaScript Parsing (1):         Esprima       esprima               1.2.2   (2014-05) BSD             http://esprima.org/
 JavaScript Parsing (2):         Acorn         acorn                 0.6.0   (2014-06) MIT             https://github.com/marijnh/acorn
+CSV Parsing:                    PapaParse     papaparse.js          3.0.1   (2014-08) MIT             http://papaparse.com/
 
 Mathematical Calculations:      MathJS        mathjs                0.22.0  (2014-05) MIT             http://mathjs.org/
 Mathematical Calculations:      NumericJS     numericjs             1.2.6   (2012-12) MIT             http://www.numericjs.com/
