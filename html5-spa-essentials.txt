@@ -105,6 +105,10 @@ Data Visualization (Charting):  D3Plus        d3plus                1.3.3   (201
 Data Visualization (Charting):  Dimple        dimple                2.0.0   (2014-04) MIT             http://dimplejs.org/
 Data Visualization (Charting):  D4            d4                    0.8.3   (2014-07) MIT             https://github.com/heavysixer/d4
 Data Visualization (Charting):  DC.js         dcjs                  1.7.1   (2014-07) Apache          http://dc-js.github.io/dc.js/
+Data Visualization (Diagrams):  JointJS       joint                 0.9.1   (2014-08) MPL             http://www.jointjs.com
+
+Graph (Data Structure)          GraphLib      graphlib              1.0.0   (2014-08) MIT             https://github.com/cpettitt/graphlib
+Graph (Layouting)               Dagre         dagre-d3              0.4.6   (2014-08) MIT             https://github.com/cpettitt/dagre
 
 Syntax Editing:                 CodeMirror    codemirror            4.2.0   (2014-05) MIT             http://codemirror.net/
 Syntax Formatting:              HighlightJS   highlightjs           8.0.0   (2014-01) MIT             http://highlightjs.org/
