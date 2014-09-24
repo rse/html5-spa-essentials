@@ -51,6 +51,7 @@ Frontend_Functionality          Product_Name  Bower_Id              Version Date
 DOM Manipulation (1):           jQuery        jquery                2.1.1   (2014-05) MIT             http://jquery.com/
 DOM Manipulation (2):           Zepto         zepto                 1.1.4   (2014-07) MIT             http://zeptojs.com/
 DOM Manipulation (3):           Minified      minified              2014.1.0 (2014-07) CC0/PD         http://minifiedjs.com/
+DOM Manipulation (4):           Chash         cash                  0.0.1   (2014-09) MIT             http://kenwheeler.github.io/cash/
 DOM Event Delegation:           DOM-Delegate  dom-delegate          2.0.1   (2014-07) MIT             https://github.com/ftlabs/ftdomdelegate
 
 UI Framework (1):               jQuery-UI     jqueryui              1.10.4  (2014-04) MIT             http://jqueryui.com/
