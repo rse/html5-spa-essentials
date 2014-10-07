@@ -150,9 +150,11 @@ Data Indexing:                  Lunr.js       lunr.js               0.5.3   (201
 Data Serialization:             Cryo          cryo                  CURRENT (2013-10) MIT             https://github.com/hunterloftis/cryo
 Data Model Querying:            Query-Engine  query-engine          1.5.7   (2013-12) MIT             https://github.com/bevry/query-engine
 Data Model Querying:            JSONSelect    jsonselect            0.2.1   (2011-01) MIT             http://jsonselect.org
+Data Model Filtering:           Crossfilter   crossfilter           1.3.11  (2014-10) Apache          http://square.github.io/crossfilter/
 
 Text Parsing (Regular):         XRegExp       xregexp               2.0.0   (2012-05) MIT             http://xregexp.com/
 Text Parsing (Context-Free):    PEG.js        pegjs                 0.8.0   (2013-12) MIT             http://pegjs.majda.cz/
+Text Language Detection:        Franc         franc                 0.2.0   (2014-10) LGPL            https://github.com/wooorm/franc
 Markdown Parsing (1):           Markdown-JS   markdown              0.6.0b1 (2013-09) MIT             https://github.com/evilstreak/markdown-js
 Markdown Parsing (2):           Marked        marked                0.3.2   (2014-03) MIT             https://github.com/chjj/marked/blob/master/package.json
 JavaScript Parsing (1):         Esprima       esprima               1.2.2   (2014-05) BSD             http://esprima.org/
@@ -165,6 +167,7 @@ Cryptography:                   CryptoJS      crypto-js-evanvosberg 3.1.2-2 (201
 
 Functional Programming (1):     Lodash        lodash                2.4.1   (2013-12) MIT             http://lodash.com/
 Functional Programming (2):     HighlandJS    highland              1.26.3  (2014-08) Apache          http://highlandjs.org/
+Functional Programming (3):     RamdaJS       ramda                 0.5.0   (2014-10) MIT             http://ramdajs.com/
 String Formatting:              sprintfjs     sprintfjs             1.1.3   (2014-05) MIT             https://github.com/rse/sprintfjs (*)
 String Manipulation:            stringjs      string                1.9.0   (2014-07) MIT             http://stringjs.com/
 Value Validation:               Ducky         ducky                 2.1.1   (2014-01) MIT             http://duckyjs.com/              (*)
