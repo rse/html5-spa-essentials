@@ -73,6 +73,9 @@ Controls (In-Place Editing):    Pen           pen                   0.0.3   (201
 Controls (Drag & Drop):         Dragabilly    dragabilly            1.1.0   (2014-07) MIT             https://github.com/desandro/draggabilly
 Controls (Modal Windows):       jBox          jbox                  0.2.0   (2014-07) MIT             https://github.com/StephanWagner/jBox/tree/master/Source
 Controls (Progress):            Ladda         ladda                 0.9.4   (2014-06) MIT             http://lab.hakim.se/ladda/
+Controls (Alerting):            SweetAlert    sweetalert            0.1.2   (2014-10) MIT             http://tristanedwards.me/sweetalert
+Controls (Alerting):            AlertifyJS    alertifyjs            0.3.12  (2014-10) MIT             http://alertifyjs.org/
+Controls (Alerting):            NotifyJS      notifyjs              0.3.2   (2014-10) MIT             http://notifyjs.com/
 
 Layouting (Pages):              Swiper.js     swiper                2.6.1   (2014-05) MIT/GPL         http://www.idangero.us/sliders/swiper/
 Layouting (Tiles):              Gridster      gridster              0.5.1   (2014-03) MIT             http://gridster.net/
