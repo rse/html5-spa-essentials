@@ -85,7 +85,7 @@ Feature Detection:              Modernizr     modernizr             2.8.2   (201
 Viewport Monitoring:            jQuery-Stage  jquery-stage          1.1.4   (2014-03) MIT             https://github.com/rse/jquery-stage
 
 Markup Management:              jQuery-Markup jquery-markup         1.0.31  (2014-05) MIT             https://github.com/rse/jquery-markup
-Markup Templating:              Nunjucks      nunjucks              1.0.5   (2014-05) BSD             http://jlongster.github.io/nunjucks/
+Markup Templating:              Nunjucks      nunjucks              1.1.0   (2014-05) BSD             http://mozilla.github.io/nunjucks/
 Data Binding:                   RactiveJS     ractive               0.4.0   (2014-04) MIT             http://www.ractivejs.org/
 Data Validation:                ParsleyJS     parsleyjs             2.0.0   (2014-04) MIT             http://parsleyjs.org/
 
