@@ -58,11 +58,11 @@ UI Framework (1):               jQuery-UI     jqueryui              1.11.2  (201
 UI Framework (2):               Bootstrap     bootstrap             3.2.0   (2014-10) MIT             http://getbootstrap.com/
 UI Framework (3):               Kendo-UI-Core kendo-ui-core         2014.2.903 (2014-10) Apache       http://www.telerik.com/kendo-ui/open-source-core
 
-Controls (Selection):           Select2       select2               3.4.8   (2014-05) Apache/GPL      http://ivaynberg.github.com/select2/
+Controls (Selection):           Select2       select2               3.5.1   (2014-10) Apache/GPL      http://ivaynberg.github.com/select2/
 Controls (Instructions):        Chardin.js    chardin.js            0.1.3   (2014-02) Apache          http://heelhook.github.io/chardin.js/
-Controls (Autocompletion):      Typeahead     typeahead.js          0.10.2  (2014-03) MIT             https://github.com/twitter/typeahead.js/
-Controls (Scrollbar):           Perfect-Scrollbar perfect-scrollbar 0.4.10  (2014-04) MIT             https://github.com/noraesae/perfect-scrollbar/
-Controls (Scrolling):           ScrollMagic   ScrollMagic           1.0.8   (2014-05) MIT/GPL         http://janpaepke.github.io/ScrollMagic
+Controls (Autocompletion):      Typeahead     typeahead.js          0.10.5  (2014-10) MIT             https://github.com/twitter/typeahead.js/
+Controls (Scrollbar):           Perfect-Scrollbar perfect-scrollbar 0.5.5   (2014-10) MIT             https://github.com/noraesae/perfect-scrollbar/
+Controls (Scrolling):           ScrollMagic   ScrollMagic           1.2.3   (2014-10) MIT/GPL         http://janpaepke.github.io/ScrollMagic
 Controls (Tree):                jsTree        jstree                3.0.2   (2014-06) MIT             http://www.jstree.com/
 Controls (Spreadsheet):         SlickGrid     slickgrid             2.1.0   (2014-07) MIT             https://github.com/mleibman/SlickGrid/
 Controls (Spreadsheet):         Handsontable  handsontable          0.10.5  (2014-07) MIT             http://handsontable.com/
