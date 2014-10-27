@@ -51,12 +51,12 @@ Frontend_Functionality          Product_Name  Bower_Id              Version Date
 DOM Manipulation (1):           jQuery        jquery                2.1.1   (2014-05) MIT             http://jquery.com/
 DOM Manipulation (2):           Zepto         zepto                 1.1.4   (2014-07) MIT             http://zeptojs.com/
 DOM Manipulation (3):           Minified      minified              2014.1.0 (2014-07) CC0/PD         http://minifiedjs.com/
-DOM Manipulation (4):           Chash         cash                  0.0.1   (2014-09) MIT             http://kenwheeler.github.io/cash/
-DOM Event Delegation:           DOM-Delegate  dom-delegate          2.0.1   (2014-07) MIT             https://github.com/ftlabs/ftdomdelegate
+DOM Manipulation (4):           Chash         cash                  0.0.2   (2014-10) MIT             http://kenwheeler.github.io/cash/
+DOM Event Delegation:           DOM-Delegate  dom-delegate          2.0.3   (2014-10) MIT             https://github.com/ftlabs/ftdomdelegate
 
-UI Framework (1):               jQuery-UI     jqueryui              1.10.4  (2014-04) MIT             http://jqueryui.com/
-UI Framework (2):               Bootstrap     bootstrap             3.1.1   (2014-02) MIT             http://getbootstrap.com/
-UI Framework (3):               Kendo-UI-Core kendo-ui-core         2014.1.416 (2014-04) Apache       http://www.telerik.com/kendo-ui/open-source-core
+UI Framework (1):               jQuery-UI     jqueryui              1.11.2  (2014-10) MIT             http://jqueryui.com/
+UI Framework (2):               Bootstrap     bootstrap             3.2.0   (2014-10) MIT             http://getbootstrap.com/
+UI Framework (3):               Kendo-UI-Core kendo-ui-core         2014.2.903 (2014-10) Apache       http://www.telerik.com/kendo-ui/open-source-core
 
 Controls (Selection):           Select2       select2               3.4.8   (2014-05) Apache/GPL      http://ivaynberg.github.com/select2/
 Controls (Instructions):        Chardin.js    chardin.js            0.1.3   (2014-02) Apache          http://heelhook.github.io/chardin.js/
