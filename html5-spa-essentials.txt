@@ -25,25 +25,25 @@
 Build_Environment_Functionality Product_Name  NPM_Id                Version Date      License         URL
 =============================== ============= ===================== ======= ========= =============== ========================
 
-Runtime Engine:                 Node          -                     0.10.29 (2014-06) MIT+BSD         http://nodejs.org/
-Package Manager:                NPM           npm                   1.4.20  (2014-07) MIT             http://npmjs.org/
-Package Manager:                Bower         bower                 1.3.5   (2014-07) MIT             http://bower.io/
+Runtime Engine:                 Node          -                     0.10.33 (2014-10) MIT+BSD         http://nodejs.org/
+Package Manager:                NPM           npm                   2.1.5   (2014-10) MIT             http://npmjs.org/
+Package Manager:                Bower         bower                 1.3.12  (2014-10) MIT             http://bower.io/
 Build Tool (1):                 Grunt         grunt                 0.4.5   (2014-05) MIT             http://gruntjs.com/
-Build Tool (2):                 Gulp          gulp                  3.7.0   (2014-06) MIT             http://gruntjs.com/
-Scaffolding Tool:               Yo            yo                    1.1.2   (2014-01) MIT             https://github.com/yeoman/yo
-Linting JavaScript (1):         JSHint        jshint                2.5.1   (2014-05) MIT             http://jshint.com/
-Linting JavaScript (2):         ESLint        eslint                0.6.2   (2014-04) MIT             https://github.com/nzakas/eslint
-Assembling JavaScript:          Browserify    browserify            4.1.8   (2014-05) MIT             http://browserify.org/
-Compression JavaScript:         UglifyJS      uglify-js             2.4.13  (2014-03) BSD             http://lisperator.net/uglifyjs/
-Compression CSS:                Clean-CSS     clean-css             2.1.9   (2014-03) MIT             https://github.com/GoalSmashers/clean-css
-Compression HTML:               HTML-Minifier html-minifier         0.6.1   (2014-05) MIT             https://github.com/kangax/html-minifier
-Testing (Runtime Engine):       PhantomJS     phantomjs             1.9.7   (2014-02) BSD             http://phantomjs.org/
-Testing (Framework):            Mocha         mocha                 1.20.1  (2014-06) MIT             http://visionmedia.github.io/mocha/
-Testing (Assertion):            Chai          chai                  1.9.1   (2014-03) MIT             http://chaijs.com/
-Testing (Mocking):              Sinon         sinon                 1.10.2  (2014-06) BSD             http://sinonjs.org/
-Testing (Test-Data):            Chance        chance                0.5.6   (2014-03) MIT             http://chancejs.com/
-Testing (Server) (1):           Express       express               4.4.1   (2014-06) MIT             http://expressjs.com/
-Testing (Server) (2):           HAPI          hapi                  6.5.0   (2014-07) BSD             http://hapijs.com/
+Build Tool (2):                 Gulp          gulp                  3.8.9   (2014-10) MIT             http://gulpjs.com/
+Scaffolding Tool:               Yo            yo                    1.3.3   (2014-10) MIT             https://github.com/yeoman/yo
+Linting JavaScript (1):         JSHint        jshint                2.5.6   (2014-10) MIT             http://jshint.com/
+Linting JavaScript (2):         ESLint        eslint                0.9.1   (2014-10) MIT             https://github.com/nzakas/eslint
+Assembling JavaScript:          Browserify    browserify            6.2.0   (2014-10) MIT             http://browserify.org/
+Compression JavaScript:         UglifyJS      uglify-js             2.4.15  (2014-10) BSD             http://lisperator.net/uglifyjs/
+Compression CSS:                Clean-CSS     clean-css             2.2.16  (2014-10) MIT             https://github.com/GoalSmashers/clean-css
+Compression HTML:               HTML-Minifier html-minifier         0.6.9   (2014-10) MIT             https://github.com/kangax/html-minifier
+Testing (Runtime Engine):       PhantomJS     phantomjs             1.9.8   (2014-10) BSD             http://phantomjs.org/
+Testing (Framework):            Mocha         mocha                 2.0.1   (2014-10) MIT             http://visionmedia.github.io/mocha/
+Testing (Assertion):            Chai          chai                  1.9.2   (2014-10) MIT             http://chaijs.com/
+Testing (Mocking):              Sinon         sinon                 1.11.0  (2014-10) BSD             http://sinonjs.org/
+Testing (Test-Data):            Chance        chance                0.6.1   (2014-10) MIT             http://chancejs.com/
+Testing (Server) (1):           Express       express               4.10.0  (2014-10) MIT             http://expressjs.com/
+Testing (Server) (2):           HAPI          hapi                  7.1.1   (2014-10) BSD             http://hapijs.com/
 
 Frontend_Functionality          Product_Name  Bower_Id              Version Date      License         URL
 =============================== ============= ===================== ======= ========= =============== ========================
@@ -94,7 +94,7 @@ Style Makro Processor:          LESS          less                  1.7.0   (201
 Style Makro Set:                LESSHat       lesshat               3.0.1   (2014-05) MIT             http://lesshat.com/
 Style Grid System:              GridLESS      gridless              1.0.1   (2013-12) MIT             https://github.com/rse/gridless (*)
 
-Animations (Fast):              Velocity      velocity              0.3.0   (2014-06) MIT             http://velocityjs.org/
+Animations (Fast):              Velocity      velocity              1.1.0   (2014-10) MIT             http://velocityjs.org/
 Animations (Simple):            Animo.js      animo.js              CURRENT (2013-08) MIT             http://labs.bigroomstudios.com/libraries/animo-js
 Animations (Complex):           Rekapi        rekapi                1.0.6   (2014-03) MIT             http://rekapi.com/
 Easing (Simple):                jQuery-Easing jquery-easing         CURRENT (2008-07) BSD             http://gsgd.co.uk/sandbox/jquery/easing/
