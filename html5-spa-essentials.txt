@@ -52,6 +52,7 @@ DOM Manipulation (1):           jQuery        jquery                2.1.1   (201
 DOM Manipulation (2):           Zepto         zepto                 1.1.4   (2014-07) MIT             http://zeptojs.com/
 DOM Manipulation (3):           Minified      minified              2014.1.0 (2014-07) CC0/PD         http://minifiedjs.com/
 DOM Manipulation (4):           Chash         cash                  0.0.2   (2014-10) MIT             http://kenwheeler.github.io/cash/
+DOM Manipulation (5):           Laroux        laroux                1.3b    (2014-11) Apache          https://larukedi.github.io/laroux.js/
 DOM Event Delegation:           DOM-Delegate  dom-delegate          2.0.3   (2014-10) MIT             https://github.com/ftlabs/ftdomdelegate
 
 UI Framework (1):               jQuery-UI     jqueryui              1.11.2  (2014-10) MIT             http://jqueryui.com/
