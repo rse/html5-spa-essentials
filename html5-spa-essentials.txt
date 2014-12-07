@@ -195,7 +195,10 @@ Backend_Functionality           Product_Name  NPM_Id                Version Date
 =============================== ============= ===================== ======= ========= =============== ========================
 
 REST Services:                  HAPI          hapi                  6.5.0   (2014-07) BSD             http://hapijs.com/
-Database Engine:                NeDB          nedb                  CURRENT (2014-04) MIT             https://github.com/louischatriot/nedb
+Database Engine (1):            NeDB          nedb                  1.0.0   (2014-12) MIT             https://github.com/louischatriot/nedb
+Database Engine (2):            LokiJS        lokijs                1.0.2   (2014-11) BSD             http://lokijs.org/
+Database Engine (3):            AlaSQL        alasql                0.0.29  (2014-12) MIT             https://github.com/agershun/alasql
+Database Engine (4):            TaffyDB       taffydb               CURRENT (2013-03) BSD             http://taffydb.com/
 Database Adapter (Redis):       Node-Redis    redis                 0.11.0  (2014-08) MIT             https://github.com/mranney/node_redis
 Database Adapter (PostgreSQL):  Node-Postgres pg                    3.4.0   (2014-08) MIT             https://github.com/brianc/node-postgres
 Database Adapter (MongoDB):     Node-MongoDB  mongodb               1.4.8   (2014-08) Apache          https://github.com/mongodb/node-mongodb-native/
