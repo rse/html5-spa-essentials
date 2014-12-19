@@ -151,7 +151,10 @@ Data Storage (Memory):          NeDB          nedb                  CURRENT (201
 Data Storage (Cookie):          jQuery-Cookie jquery-cookie         1.4.1   (2014-04) MIT             https://github.com/carhartl/jquery-cookie
 Data Storage (LocalStorage):    Store.js      store.js              1.3.16  (2014-03) MIT             https://github.com/marcuswestin/store.js
 Data Indexing:                  Lunr.js       lunr.js               0.5.3   (2014-05) MIT             http://lunrjs.com/
-Data Serialization:             Cryo          cryo                  CURRENT (2013-10) MIT             https://github.com/hunterloftis/cryo
+Data Serialization (JSON):      Cryo          cryo                  CURRENT (2013-10) MIT             https://github.com/hunterloftis/cryo
+Data Serialization (CBOR):      cbor-js       cbor                  CURRENT (2014-05) MIT             https://github.com/paroga/cbor-js/
+Data Serialization (MsgPack):   msgpack-js    msgpack-js            0.3.0   (2013-07) MIT             https://github.com/creationix/msgpack-js
+Data Serialization (ProtoBuf):  ProtoBuf.js   protobuf              3.8.2   (2014-12) Apache          https://github.com/dcodeIO/ProtoBuf.js/
 Data Model Querying:            Query-Engine  query-engine          1.5.7   (2013-12) MIT             https://github.com/bevry/query-engine
 Data Model Querying:            JSONSelect    jsonselect            0.2.1   (2011-01) MIT             http://jsonselect.org
 Data Model Filtering:           Crossfilter   crossfilter           1.3.11  (2014-10) Apache          http://square.github.io/crossfilter/
@@ -213,6 +216,9 @@ Parsing (YAML):                 Node-YAML     js-yaml               3.1.0   (201
 Parsing (INI):                  Node-INI      node-ini              1.0.0   (2012-07) MIT             https://github.com/pastorbones/node-ini
 Parsing (CSV):                  Node-CSV      node-csv              0.3.6   (2013-08) BSD             http://www.adaltas.com/projects/node-csv/
 Parsing (Markdown):             Marked        marked                0.3.2   (2014-03) MIT             https://github.com/chjj/marked/blob/master/package.json
+Data Serialization (CBOR):      cbor          cbor                  0.3.10  (2014-06) MIT             http://github.com/hildjj/node-cbor/
+Data Serialization (MsgPack):   msgpack5      msgpack5              1.3.2   (2014-11) MIT             https://github.com/mcollina/msgpack5/
+Data Serialization (ProtoBuf):  ProtoBuf.js   protobufjs            3.8.2   (2014-12) Apache          https://github.com/dcodeIO/ProtoBuf.js/
 Logging:                        Winston       winston               0.7.3   (2014-03) MIT             https://github.com/flatiron/winston
 Terminal Input Prompting:       Inquirer      inquirer              0.6.0   (2014-08) MIT             https://github.com/SBoudrias/Inquirer.js
 Terminal Output Colorization:   Chalk         chalk                 0.5.1   (2014-07) MIT             https://github.com/sindresorhus/chalk
