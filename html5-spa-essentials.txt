@@ -155,6 +155,8 @@ Data Serialization (JSON):      Cryo          cryo                  CURRENT (201
 Data Serialization (CBOR):      cbor-js       cbor                  CURRENT (2014-05) MIT             https://github.com/paroga/cbor-js/
 Data Serialization (MsgPack):   msgpack-js    msgpack-js            0.3.0   (2013-07) MIT             https://github.com/creationix/msgpack-js
 Data Serialization (ProtoBuf):  ProtoBuf.js   protobuf              3.8.2   (2014-12) Apache          https://github.com/dcodeIO/ProtoBuf.js/
+Data Bufer:                     ByteBuffer    bytebuffer            3.5.4   (2014-12) Apache          https://github.com/dcodeIO/ByteBuffer.js
+
 Data Model Querying:            Query-Engine  query-engine          1.5.7   (2013-12) MIT             https://github.com/bevry/query-engine
 Data Model Querying:            JSONSelect    jsonselect            0.2.1   (2011-01) MIT             http://jsonselect.org
 Data Model Filtering:           Crossfilter   crossfilter           1.3.11  (2014-10) Apache          http://square.github.io/crossfilter/
@@ -199,7 +201,7 @@ Backend_Functionality           Product_Name  NPM_Id                Version Date
 
 REST Services:                  HAPI          hapi                  6.5.0   (2014-07) BSD             http://hapijs.com/
 Database Engine (1):            NeDB          nedb                  1.0.0   (2014-12) MIT             https://github.com/louischatriot/nedb
-Database Engine (2):            LokiJS        lokijs                1.0.2   (2014-11) BSD             http://lokijs.org/
+Database Engine (2):            LokiJS        lokijs                1.1.0   (2014-12) BSD             http://lokijs.org/
 Database Engine (3):            AlaSQL        alasql                0.0.29  (2014-12) MIT             https://github.com/agershun/alasql
 Database Engine (4):            TaffyDB       taffydb               CURRENT (2013-03) BSD             http://taffydb.com/
 Database Adapter (Redis):       Node-Redis    redis                 0.11.0  (2014-08) MIT             https://github.com/mranney/node_redis
@@ -219,6 +221,7 @@ Parsing (Markdown):             Marked        marked                0.3.2   (201
 Data Serialization (CBOR):      cbor          cbor                  0.3.10  (2014-06) MIT             http://github.com/hildjj/node-cbor/
 Data Serialization (MsgPack):   msgpack5      msgpack5              1.3.2   (2014-11) MIT             https://github.com/mcollina/msgpack5/
 Data Serialization (ProtoBuf):  ProtoBuf.js   protobufjs            3.8.2   (2014-12) Apache          https://github.com/dcodeIO/ProtoBuf.js/
+Data Bufer:                     ByteBuffer    bytebuffer            3.5.4   (2014-12) Apache          https://github.com/dcodeIO/ByteBuffer.js
 Logging:                        Winston       winston               0.7.3   (2014-03) MIT             https://github.com/flatiron/winston
 Terminal Input Prompting:       Inquirer      inquirer              0.6.0   (2014-08) MIT             https://github.com/SBoudrias/Inquirer.js
 Terminal Output Colorization:   Chalk         chalk                 0.5.1   (2014-07) MIT             https://github.com/sindresorhus/chalk
