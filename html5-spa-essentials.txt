@@ -55,6 +55,7 @@ DOM Manipulation (2):           Zepto         zepto                 1.1.4   (201
 DOM Manipulation (3):           Minified      minified              2014.1.0 (2014-07) CC0/PD         http://minifiedjs.com/
 DOM Manipulation (4):           Chash         cash                  0.0.2   (2014-10) MIT             http://kenwheeler.github.io/cash/
 DOM Manipulation (5):           Laroux        laroux                1.3b    (2014-11) Apache          https://larukedi.github.io/laroux.js/
+DOM Manipulation (6):           GrindstoneJS  grindstone            1.1.4   (2015-01) MIT             http://grindstonejs.drzwebdev.com/
 DOM Event Delegation:           DOM-Delegate  dom-delegate          2.0.3   (2014-10) MIT             https://github.com/ftlabs/ftdomdelegate
 
 UI Framework (1):               jQuery-UI     jqueryui              1.11.2  (2014-10) MIT             http://jqueryui.com/
@@ -104,6 +105,7 @@ Easing (Simple):                jQuery-Easing jquery-easing         CURRENT (200
 Easing (Complex):               Shifty        shifty                1.2.1   (2014-04) MIT             http://jeremyckahn.github.io/shifty/
 
 Drawing (Canvas):               Fabric.js     fabric                1.4.6   (2014-05) MIT             http://fabricjs.com/
+Drawing (Canvas):               KonvaJS       konva                 0.9.0   (2015-03) MIT             http://konvajs.github.io/
 Drawing (SVG):                  Snap.svg      Snap.svg              0.3.0   (2014-06) Apache          http://snapsvg.io/
 Drawing (WebGL):                Three.JS      threejs               CURRENT (2014-06) MIT             http://threejs.org/
 
