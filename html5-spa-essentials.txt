@@ -75,6 +75,7 @@ Controls (In-Place Editing):    Grande.js     grande                CURRENT (201
 Controls (In-Place Editing):    Medium-Editor medium-editor         1.8.14  (2014-07) MIT             http://daviferreira.github.io/medium-editor/
 Controls (In-Place Editing):    Pen           pen                   0.0.3   (2014-07) MIT             http://sofish.github.io/pen/
 Controls (Drag & Drop):         Dragabilly    dragabilly            1.1.0   (2014-07) MIT             https://github.com/desandro/draggabilly
+Controls (Drag & Drop):         Interact      interact              1.2.4   (2015-04) MIT             http://interactjs.io/
 Controls (Modal Windows):       jBox          jbox                  0.2.0   (2014-07) MIT             https://github.com/StephanWagner/jBox/tree/master/Source
 Controls (Progress):            Ladda         ladda                 0.9.4   (2014-06) MIT             http://lab.hakim.se/ladda/
 Controls (Alerting):            SweetAlert    sweetalert            0.1.2   (2014-10) MIT             http://tristanedwards.me/sweetalert
