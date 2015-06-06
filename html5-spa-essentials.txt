@@ -64,7 +64,10 @@ UI Framework (2):               Bootstrap     bootstrap             3.2.0   (201
 UI Framework (3):               Kendo-UI-Core kendo-ui-core         2014.2.903 (2014-10) Apache       http://www.telerik.com/kendo-ui/open-source-core
 
 Controls (Selection):           Select2       select2               3.5.1   (2014-10) Apache/GPL      http://ivaynberg.github.com/select2/
+Controls (Instructions):        Intro.js      intro.js              1.0.0   (2015-06) MIT             http://usablica.github.io/intro.js/
 Controls (Instructions):        Chardin.js    chardin.js            0.1.3   (2014-02) Apache          http://heelhook.github.io/chardin.js/
+Controls (Instructions):        Bootstraptour bootstraptour         0.10.2  (2015-06) Apache          http://bootstraptour.com/
+Controls (Instructions):        Hopscotch     hopscotch             0.2.4   (2015-06) Apache          http://linkedin.github.io/hopscotch/
 Controls (Autocompletion):      Typeahead     typeahead.js          0.10.5  (2014-10) MIT             https://github.com/twitter/typeahead.js/
 Controls (Scrollbar):           Perfect-Scrollbar perfect-scrollbar 0.5.5   (2014-10) MIT             https://github.com/noraesae/perfect-scrollbar/
 Controls (Scrolling):           ScrollMagic   ScrollMagic           1.2.3   (2014-10) MIT/GPL         http://janpaepke.github.io/ScrollMagic
@@ -82,9 +85,13 @@ Controls (Progress):            Ladda         ladda                 0.9.4   (201
 Controls (Alerting):            SweetAlert    sweetalert            0.1.2   (2014-10) MIT             http://tristanedwards.me/sweetalert
 Controls (Alerting):            AlertifyJS    alertifyjs            0.3.12  (2014-10) MIT             http://alertifyjs.org/
 Controls (Alerting):            NotifyJS      notifyjs              0.3.2   (2014-10) MIT             http://notifyjs.com/
+Controls (Tooltip):             QTip2         qtip2                 2.2.1   (2014-09) MIT             http://qtip2.com/
+Controls (Tooltip):             ToolTipster   tooltipster           3.3.0   (2015-06) MIT             http://iamceege.github.io/tooltipster/
+Controls (Sidebar):             Simpler-Sidebar simpler-sidebar     2.2.1   (2015-06) MIT             http://dcdeiv.github.io/simpler-sidebar/
 
 Layouting (Pages):              Swiper.js     swiper                2.6.1   (2014-05) MIT/GPL         http://www.idangero.us/sliders/swiper/
-Layouting (Tiles):              Gridster      gridster              0.5.1   (2014-03) MIT             http://gridster.net/
+Layouting (Tiles):              Masonry       masonry               3.3.0   (2015-05) MIT             http://masonry.desandro.com/
+Layouting (Tiles):              Gridster      gridster              0.5.6   (2014-03) MIT             http://gridster.net/
 Layouting (Slider):             Slick         slick-carousel        1.3.7   (2014-09) MIT             http://kenwheeler.github.io/slick/
 
 Feature Detection:              Modernizr     modernizr             2.8.2   (2014-05) MIT             http://modernizr.com/
@@ -124,6 +131,7 @@ Data Visualization (Charting):  D4            d4                    0.8.3   (201
 Data Visualization (Charting):  DC.js         dcjs                  1.7.1   (2014-07) Apache          http://dc-js.github.io/dc.js/
 Data Visualization (Diagrams):  JointJS       joint                 0.9.1   (2014-08) MPL             http://www.jointjs.com
 
+Graph (Data Structure)          Cytoscape.js  cytoscape             2.4.0   (2015-05) LGPL            http://js.cytoscape.org/
 Graph (Data Structure)          GraphLib      graphlib              1.0.0   (2014-08) MIT             https://github.com/cpettitt/graphlib
 Graph (Layouting)               Dagre         dagre-d3              0.4.6   (2014-08) MIT             https://github.com/cpettitt/dagre
 
