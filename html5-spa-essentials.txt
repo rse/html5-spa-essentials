@@ -1,6 +1,6 @@
 ##
 ##  HTML5-SPA-Essentials
-##  Copyright (c) 2013-2014 Ralf S. Engelschall <rse@engelschall.com>
+##  Copyright (c) 2013-2015 Ralf S. Engelschall <rse@engelschall.com>
 ##
 ##  Permission is hereby granted, free of charge, to any person obtaining
 ##  a copy of this software and associated documentation files (the
@@ -25,242 +25,256 @@
 Build_Environment_Functionality Product_Name  NPM_Id                Version Date      License         URL
 =============================== ============= ===================== ======= ========= =============== ========================
 
-Runtime Engine:                 Node          -                     0.10.33 (2014-10) MIT+BSD         http://nodejs.org/
-Package Manager:                NPM           npm                   2.1.5   (2014-10) MIT             http://npmjs.org/
-Package Manager:                Bower         bower                 1.3.12  (2014-10) MIT             http://bower.io/
+Runtime Engine:                 Node          -                     0.12.5  (2015-06) MIT+BSD         http://nodejs.org/
+Package Manager:                NPM           npm                   2.12.1  (2015-06) MIT             http://npmjs.org/
+Package Manager:                Bower         bower                 1.4.1   (2015-04) MIT             http://bower.io/
 Build Tool (1):                 Grunt         grunt                 0.4.5   (2014-05) MIT             http://gruntjs.com/
-Build Tool (2):                 Gulp          gulp                  3.8.9   (2014-10) MIT             http://gulpjs.com/
-Scaffolding Tool:               Yo            yo                    1.3.3   (2014-10) MIT             https://github.com/yeoman/yo
-Linting JavaScript (1):         JSHint        jshint                2.5.6   (2014-10) MIT             http://jshint.com/
-Linting JavaScript (2):         ESLint        eslint                0.9.1   (2014-10) MIT             https://github.com/nzakas/eslint
-Assembling JavaScript:          Browserify    browserify            6.2.0   (2014-10) MIT             http://browserify.org/
-Transpiling JavaScript (1):     6to5          6to5                  3.3.9   (2015-02) MIT             http://6to5.org/
-Transpiling JavaScript (2):     SweetJS       sweet.js              0.7.3   (2015-01) MIT             http://sweetjs.org/
-Compression JavaScript:         UglifyJS      uglify-js             2.4.15  (2014-10) BSD             http://lisperator.net/uglifyjs/
-Compression CSS:                Clean-CSS     clean-css             2.2.16  (2014-10) MIT             https://github.com/GoalSmashers/clean-css
-Compression HTML:               HTML-Minifier html-minifier         0.6.9   (2014-10) MIT             https://github.com/kangax/html-minifier
-Testing (Runtime Engine):       PhantomJS     phantomjs             1.9.8   (2014-10) BSD             http://phantomjs.org/
-Testing (Framework):            Mocha         mocha                 2.0.1   (2014-10) MIT             http://visionmedia.github.io/mocha/
-Testing (Assertion):            Chai          chai                  1.9.2   (2014-10) MIT             http://chaijs.com/
-Testing (Mocking):              Sinon         sinon                 1.11.0  (2014-10) BSD             http://sinonjs.org/
-Testing (Test-Data):            Chance        chance                0.6.1   (2014-10) MIT             http://chancejs.com/
-Testing (Server) (1):           Express       express               4.10.0  (2014-10) MIT             http://expressjs.com/
-Testing (Server) (2):           HAPI          hapi                  7.1.1   (2014-10) BSD             http://hapijs.com/
+Build Tool (2):                 Gulp          gulp                  3.9.0   (2015-06) MIT             http://gulpjs.com/
+Scaffolding Tool:               Yo            yo                    1.4.7   (2015-05) MIT             https://github.com/yeoman/yo
+Linting JavaScript (1):         JSHint        jshint                2.8.0   (2015-06) MIT             http://jshint.com/
+Linting JavaScript (2):         ESLint        eslint                0.24.0  (2015-06) MIT             http://eslint.org/
+Assembling JavaScript:          Browserify    browserify            10.2.4  (2015-06) MIT             http://browserify.org/
+Transpiling JavaScript (1):     babel         babel                 5.6.14  (2015-06) MIT             http://babeljs.io/
+Transpiling JavaScript (2):     SweetJS       sweet.js              0.7.4   (2015-02) MIT             http://sweetjs.org/
+Compression JavaScript:         UglifyJS      uglify-js             2.4.23  (2015-05) BSD             http://lisperator.net/uglifyjs/
+Compression CSS:                Clean-CSS     clean-css             3.3.4   (2015-06) MIT             https://github.com/jakubpawlowicz/clean-css
+Compression HTML:               HTML-Minifier html-minifier         0.7.2   (2015-04) MIT             https://github.com/kangax/html-minifier
+Testing (Runtime Engine):       PhantomJS     phantomjs             2.0.0   (2015-01) BSD             http://phantomjs.org/
+Testing (Framework):            Mocha         mocha                 2.2.5   (2015-05) MIT             http://mochajs.org/
+Testing (Assertion):            Chai          chai                  3.0.0   (2015-06) MIT             http://chaijs.com/
+Testing (Mocking):              Sinon         sinon                 1.15.4  (2015-06) BSD             http://sinonjs.org/
+Testing (Test-Data):            Chance        chance                0.7.6   (2015-06) MIT             http://chancejs.com/
+Testing (Server) (1):           Express       express               4.13.0  (2015-06) MIT             http://expressjs.com/
+Testing (Server) (2):           HAPI          hapi                  8.6.1   (2015-06) BSD             http://hapijs.com/
 
 Frontend_Functionality          Product_Name  Bower_Id              Version Date      License         URL
 =============================== ============= ===================== ======= ========= =============== ========================
 
-DOM Manipulation (1):           jQuery        jquery                2.1.1   (2014-05) MIT             http://jquery.com/
-DOM Manipulation (2):           Zepto         zepto                 1.1.4   (2014-07) MIT             http://zeptojs.com/
+DOM Manipulation (1):           jQuery        jquery                2.1.4   (2015-06) MIT             http://jquery.com/
+DOM Manipulation (2):           Zepto         zepto                 1.1.6   (2014-12) MIT             http://zeptojs.com/
 DOM Manipulation (3):           Minified      minified              2014.1.0 (2014-07) CC0/PD         http://minifiedjs.com/
-DOM Manipulation (4):           Chash         cash                  0.0.2   (2014-10) MIT             http://kenwheeler.github.io/cash/
-DOM Manipulation (5):           Laroux        laroux                1.3b    (2014-11) Apache          https://larukedi.github.io/laroux.js/
-DOM Manipulation (6):           GrindstoneJS  grindstone            1.1.4   (2015-01) MIT             http://grindstonejs.drzwebdev.com/
-DOM Manipulation (7):           Sprint        sprint.js             0.9.2   (2015-04) MIT             https://github.com/bendc/sprint
-DOM Event Delegation:           DOM-Delegate  dom-delegate          2.0.3   (2014-10) MIT             https://github.com/ftlabs/ftdomdelegate
+DOM Manipulation (4):           Chash         cash                  1.0.0   (2015-02) MIT             http://kenwheeler.github.io/cash/
+DOM Manipulation (5):           Laroux        laroux                2.1.0   (2015-06) Apache          https://larukedi.github.io/laroux.js/
+DOM Manipulation (6):           GrindstoneJS  grindstone            1.2.5   (2015-05) MIT             http://grindstonejs.drzwebdev.com/
+DOM Manipulation (7):           Sprint        sprint.js             CURRENT (2015-04) MIT             https://github.com/bendc/sprint
+DOM Event Delegation:           DOM-Delegate  dom-delegate          2.0.3   (2014-08) MIT             https://github.com/ftlabs/ftdomdelegate
 
-UI Framework (1):               jQuery-UI     jqueryui              1.11.2  (2014-10) MIT             http://jqueryui.com/
-UI Framework (2):               Bootstrap     bootstrap             3.2.0   (2014-10) MIT             http://getbootstrap.com/
-UI Framework (3):               Kendo-UI-Core kendo-ui-core         2014.2.903 (2014-10) Apache       http://www.telerik.com/kendo-ui/open-source-core
+UI Framework (1):               Polymer       polymer               1.0.5   (2015-06) MIT             https://www.polymer-project.org/
+UI Framework (2):               jQuery-UI     jqueryui              1.11.4  (2015-03) MIT             http://jqueryui.com/
+UI Framework (3):               Bootstrap     bootstrap             3.3.5   (2015-06) MIT             http://getbootstrap.com/
+UI Framework (4):               Kendo-UI-Core kendo-ui-core         2015.2.624 (2015-06) Apache       http://www.telerik.com/kendo-ui
 
-Controls (Selection):           Select2       select2               3.5.1   (2014-10) Apache/GPL      http://ivaynberg.github.com/select2/
-Controls (Instructions):        Intro.js      intro.js              1.0.0   (2015-06) MIT             http://usablica.github.io/intro.js/
+Controls (Selection):           Select2       select2               4.0.0   (2015-04) Apache/GPL      http://ivaynberg.github.com/select2/
+Controls (Instructions):        Intro.js      intro.js              1.0.0   (2014-10) MIT             http://usablica.github.io/intro.js/
 Controls (Instructions):        Chardin.js    chardin.js            0.1.3   (2014-02) Apache          http://heelhook.github.io/chardin.js/
-Controls (Instructions):        Bootstraptour bootstraptour         0.10.2  (2015-06) Apache          http://bootstraptour.com/
-Controls (Instructions):        Hopscotch     hopscotch             0.2.4   (2015-06) Apache          http://linkedin.github.io/hopscotch/
-Controls (Autocompletion):      Typeahead     typeahead.js          0.10.5  (2014-10) MIT             https://github.com/twitter/typeahead.js/
-Controls (Scrollbar):           Perfect-Scrollbar perfect-scrollbar 0.5.5   (2014-10) MIT             https://github.com/noraesae/perfect-scrollbar/
-Controls (Scrolling):           ScrollMagic   ScrollMagic           1.2.3   (2014-10) MIT/GPL         http://janpaepke.github.io/ScrollMagic
-Controls (Tree):                jsTree        jstree                3.0.2   (2014-06) MIT             http://www.jstree.com/
-Controls (Spreadsheet):         SlickGrid     slickgrid             2.1.0   (2014-07) MIT             https://github.com/mleibman/SlickGrid/
-Controls (Spreadsheet):         Handsontable  handsontable          0.10.5  (2014-07) MIT             http://handsontable.com/
+Controls (Instructions):        Bootstraptour bootstraptour         0.10.2  (2015-02) Apache          http://bootstraptour.com/
+Controls (Instructions):        Hopscotch     hopscotch             0.2.4   (2015-04) Apache          http://linkedin.github.io/hopscotch/
+Controls (Autocompletion):      Typeahead     typeahead.js          0.11.1  (2015-04) MIT             https://github.com/twitter/typeahead.js/
+Controls (Scrollbar):           Perfect-Scrollbar perfect-scrollbar 0.6.3   (2015-06) MIT             https://github.com/noraesae/perfect-scrollbar/
+Controls (Scrolling):           ScrollMagic   ScrollMagic           2.0.5   (2015-04) MIT/GPL         http://janpaepke.github.io/ScrollMagic
+Controls (Tree):                jsTree        jstree                3.1.1   (2015-05) MIT             http://www.jstree.com/
+Controls (Spreadsheet):         SlickGrid     slickgrid             2.1.0   (2013-07) MIT             https://github.com/mleibman/SlickGrid/
+Controls (Spreadsheet):         Handsontable  handsontable          0.15.1  (2015-06) MIT             http://handsontable.com/
 Controls (In-Place Editing):    X-Editable    x-editable            1.5.1   (2013-10) MIT             http://vitalets.github.io/x-editable/
-Controls (In-Place Editing):    Grande.js     grande                CURRENT (2014-01) MIT             http://mattduvall.com/grande.js/
-Controls (In-Place Editing):    Medium-Editor medium-editor         1.8.14  (2014-07) MIT             http://daviferreira.github.io/medium-editor/
-Controls (In-Place Editing):    Pen           pen                   0.0.3   (2014-07) MIT             http://sofish.github.io/pen/
-Controls (Drag & Drop):         Dragabilly    dragabilly            1.1.0   (2014-07) MIT             https://github.com/desandro/draggabilly
-Controls (Drag & Drop):         Interact      interact              1.2.4   (2015-04) MIT             http://interactjs.io/
-Controls (Modal Windows):       jBox          jbox                  0.2.0   (2014-07) MIT             https://github.com/StephanWagner/jBox/tree/master/Source
-Controls (Progress):            Ladda         ladda                 0.9.4   (2014-06) MIT             http://lab.hakim.se/ladda/
-Controls (Alerting):            SweetAlert    sweetalert            0.1.2   (2014-10) MIT             http://tristanedwards.me/sweetalert
-Controls (Alerting):            AlertifyJS    alertifyjs            0.3.12  (2014-10) MIT             http://alertifyjs.org/
-Controls (Alerting):            NotifyJS      notifyjs              0.3.2   (2014-10) MIT             http://notifyjs.com/
+Controls (In-Place Editing):    Medium-Editor medium-editor         5.1.0   (2015-06) MIT             http://daviferreira.github.io/medium-editor/
+Controls (In-Place Editing):    Grande.js     grande                CURRENT (2014-07) MIT             http://mattduvall.com/grande.js/
+Controls (In-Place Editing):    Pen           pen                   0.1.0   (2015-02) MIT             http://sofish.github.io/pen/
+Controls (Drag & Drop):         Dragabilly    dragabilly            1.2.4   (2015-05) MIT             https://github.com/desandro/draggabilly
+Controls (Drag & Drop):         Interact      interact              1.2.4   (2015-03) MIT             http://interactjs.io/
+Controls (Modal Windows):       jBox          jbox                  0.3.2   (2014-10) MIT             https://github.com/StephanWagner/jBox/
+Controls (Progress):            Ladda         ladda                 0.9.8   (2015-04) MIT             http://lab.hakim.se/ladda/
+Controls (Alerting):            SweetAlert    sweetalert            1.0.1   (2015-05) MIT             http://tristanedwards.me/sweetalert
+Controls (Alerting):            AlertifyJS    alertifyjs            0.3.16  (2015-01) MIT             http://alertifyjs.org/
+Controls (Alerting):            NotifyJS      notifyjs              0.3.2   (2014-06) MIT             http://notifyjs.com/
 Controls (Tooltip):             QTip2         qtip2                 2.2.1   (2014-09) MIT             http://qtip2.com/
-Controls (Tooltip):             ToolTipster   tooltipster           3.3.0   (2015-06) MIT             http://iamceege.github.io/tooltipster/
-Controls (Sidebar):             Simpler-Sidebar simpler-sidebar     2.2.1   (2015-06) MIT             http://dcdeiv.github.io/simpler-sidebar/
+Controls (Tooltip):             ToolTipster   tooltipster           3.3.0   (2014-11) MIT             http://iamceege.github.io/tooltipster/
+Controls (Sidebar):             Simpler-Sidebar simpler-sidebar     1.2.3   (2015-06) MIT             http://dcdeiv.github.io/simpler-sidebar/
 
-Layouting (Pages):              Swiper.js     swiper                2.6.1   (2014-05) MIT/GPL         http://www.idangero.us/sliders/swiper/
-Layouting (Tiles):              Masonry       masonry               3.3.0   (2015-05) MIT             http://masonry.desandro.com/
-Layouting (Tiles):              Gridster      gridster              0.5.6   (2014-03) MIT             http://gridster.net/
-Layouting (Slider):             Slick         slick-carousel        1.3.7   (2014-09) MIT             http://kenwheeler.github.io/slick/
+Layouting (Pages):              Swiper.js     swiper                3.0.8   (2015-06) MIT/GPL         http://www.idangero.us/swiper/
+Layouting (Tiles):              Masonry       masonry               3.3.0   (2015-04) MIT             http://masonry.desandro.com/
+Layouting (Tiles):              Gridster      gridster              0.5.6   (2014-09) MIT             http://gridster.net/
+Layouting (Slider):             Slick         slick-carousel        1.5.5   (2015-05) MIT             http://kenwheeler.github.io/slick/
 
-Feature Detection:              Modernizr     modernizr             2.8.2   (2014-05) MIT             http://modernizr.com/
-Viewport Monitoring:            jQuery-Stage  jquery-stage          1.1.4   (2014-03) MIT             https://github.com/rse/jquery-stage
+Feature Detection:              Modernizr     modernizr             2.8.3   (2014-07) MIT             http://modernizr.com/
+Viewport Monitoring:            jQuery-Stage  jquery-stage          1.1.7   (2015-02) MIT             https://github.com/rse/jquery-stage (*)
 
-Markup Management:              jQuery-Markup jquery-markup         1.0.31  (2014-05) MIT             https://github.com/rse/jquery-markup
-Markup Templating:              Nunjucks      nunjucks              1.1.0   (2014-05) BSD             http://mozilla.github.io/nunjucks/
-Data Binding:                   RactiveJS     ractive               0.4.0   (2014-04) MIT             http://www.ractivejs.org/
-Data Validation:                ParsleyJS     parsleyjs             2.0.0   (2014-04) MIT             http://parsleyjs.org/
+Markup Management:              jQuery-Markup jquery-markup         1.0.34  (2015-02) MIT             https://github.com/rse/jquery-markup (*)
+Markup Templating:              Nunjucks      nunjucks              1.3.4   (2015-04) BSD             http://mozilla.github.io/nunjucks/
+Data Binding (1):               RactiveJS     ractive               0.7.3   (2015-04) MIT             http://www.ractivejs.org/
+Data Binding (2):               Vue.js        vue                   0.12.4  (2015-06) MIT             http://vuejs.org/
+Data Binding (3):               Rivets        rivets                0.8.1   (2015-03) MIT             http://rivetsjs.com/
+Data Binding (4):               jQueryMy      jquerymy              1.1.7   (2015-06) MIT             http://jquerymy.com/
+Data Binding (5):               Knockout      knockout              3.3.0   (2015-02) MIT             http://knockoutjs.com/
+Data Binding (6):               way.js        way.js                CURRENT (2014-07) MIT             http://gwendall.github.io/way/
+Data Binding (7):               databind      databind              0.4.1   (2015-04) MIT             https://github.com/grnadav/databind
+Data Validation (1):            ParsleyJS     parsleyjs             2.1.2   (2015-06) MIT             http://parsleyjs.org/
+Data Validation (2):            Ducky         ducky                 2.1.3   (2015-01) MIT             http://duckyjs.com/ (*)
 
-Style Resetting:                Sanitize.css  sanitize.css          2.0.0   (2014-03) MIT             http://zdroid.roon.io/sanitize-css
-Style Makro Processor:          LESS          less                  1.7.0   (2014-02) Apache          http://lesscss.org/
-Style Makro Set:                LESSHat       lesshat               3.0.1   (2014-05) MIT             http://lesshat.com/
-Style Grid System:              GridLESS      gridless              1.0.1   (2013-12) MIT             https://github.com/rse/gridless (*)
+Style Resetting (1):            Normalize.css normalize.css         3.0.2   (2015-03) MIT             http://necolas.github.io/normalize.css/
+Style Resetting (2):            Sanitize.css  sanitize.css          2.0.0   (2014-02) MIT             https://github.com/ZDroid/sanitize.css
+Style Makro Processor:          LESS          less                  2.5.1   (2015-05) Apache          http://lesscss.org/
+Style Makro Set:                LESSHat       lesshat               3.0.2   (2014-06) MIT             http://lesshat.com/
+Style Grid System:              GridLESS      gridless              1.0.2   (2014-08) MIT             https://github.com/rse/gridless (*)
 
-Animations (Fast):              Velocity      velocity              1.1.0   (2014-10) MIT             http://velocityjs.org/
-Animations (Simple):            Animo.js      animo.js              CURRENT (2013-08) MIT             http://labs.bigroomstudios.com/libraries/animo-js
-Animations (Complex):           Rekapi        rekapi                1.0.6   (2014-03) MIT             http://rekapi.com/
+Animations (Abstraction):       Tweene        tweene                0.5.8   (2015-06) Artistic        http://tweene.com
+Animations (Fast):              Velocity      velocity              1.2.2   (2015-02) MIT             http://velocityjs.org/
+Animations (Fast):              Transit       transit               0.9.12  (2014-07) MIT             http://ricostacruz.com/jquery.transit/
+Animations (Simple):            Animo.js      animo.js              1.0.2   (2014-05) MIT             http://labs.bigroomstudios.com/libraries/animo-js
+Animations (Complex):           Rekapi        rekapi                1.4.5   (2015-04) MIT             http://rekapi.com/
 Easing (Simple):                jQuery-Easing jquery-easing         CURRENT (2008-07) BSD             http://gsgd.co.uk/sandbox/jquery/easing/
-Easing (Complex):               Shifty        shifty                1.2.1   (2014-04) MIT             http://jeremyckahn.github.io/shifty/
+Easing (Complex):               Shifty        shifty                1.5.0   (2015-05) MIT             http://jeremyckahn.github.io/shifty/
 
-Drawing (Canvas):               Fabric.js     fabric                1.4.6   (2014-05) MIT             http://fabricjs.com/
-Drawing (Canvas):               KonvaJS       konva                 0.9.0   (2015-03) MIT             http://konvajs.github.io/
-Drawing (SVG):                  Snap.svg      Snap.svg              0.3.0   (2014-06) Apache          http://snapsvg.io/
-Drawing (WebGL):                Three.JS      threejs               CURRENT (2014-06) MIT             http://threejs.org/
+Drawing (Canvas):               Fabric.js     fabric                1.5.0   (2015-04) MIT             http://fabricjs.com/
+Drawing (Canvas):               KonvaJS       konva                 0.9.5   (2015-05) MIT             http://konvajs.github.io/
+Drawing (SVG):                  Snap.svg      Snap.svg              0.4.1   (2015-04) Apache          http://snapsvg.io/
+Drawing (WebGL):                Three.JS      threejs               r71     (2015-03) MIT             http://threejs.org/
 
-Physics Engine (2D):            P2.js         p2js                  0.6.0   (2014-07) MIT             http://schteppe.github.io/p2.js/
-Physics Engine (2D):            PhysicsJS     PhysicsJS             0.6.0   (2014-09) MIT             http://wellcaffeinated.net/PhysicsJS/
+Physics Engine (2D):            P2.js         p2js                  0.6.1   (2015-03) MIT             http://schteppe.github.io/p2.js/
+Physics Engine (2D):            PhysicsJS     PhysicsJS             0.7.0   (2014-12) MIT             http://wellcaffeinated.net/PhysicsJS/
+Physics Engine (3D):            CannonJS      cannon.js             0.6.2   (2015-03) MIT             http://cannonjs.org/
 Physics Engine (2D):            Matter.js     Matter                0.8.0   (2014-05) MIT             http://brm.io/matter-js/
-Physics Engine (3D):            CannonJS      cannon.js             0.5.0   (2014-09) MIT             http://cannonjs.org/
 Physics Engine (3D):            Physijs       Physijs               CURRENT (2014-09) MIT             http://chandlerprall.github.io/Physijs/
 
-Data Visualization:             D3            d3                    3.4.8   (2014-05) BSD             http://d3js.org/
-Data Visualization (Charting):  D3Plus        d3plus                1.3.3   (2014-07) MIT             http://d3plus.org/
-Data Visualization (Charting):  Dimple        dimple                2.0.0   (2014-04) MIT             http://dimplejs.org/
-Data Visualization (Charting):  D4            d4                    0.8.3   (2014-07) MIT             https://github.com/heavysixer/d4
-Data Visualization (Charting):  DC.js         dcjs                  1.7.1   (2014-07) Apache          http://dc-js.github.io/dc.js/
-Data Visualization (Diagrams):  JointJS       joint                 0.9.1   (2014-08) MPL             http://www.jointjs.com
+Data Visualization:             D3            d3                    3.5.5   (2015-02) BSD             http://d3js.org/
+Data Visualization (Charting):  D3Plus        d3plus                1.7.4   (2015-06) MIT             http://d3plus.org/
+Data Visualization (Charting):  Dimple        dimple                2.1.2   (2014-10) MIT             http://dimplejs.org/
+Data Visualization (Charting):  D4            d4                    0.9.4   (2015-04) MIT             https://github.com/heavysixer/d4
+Data Visualization (Charting):  DC.js         dcjs                  2.0.0   (2015-06) Apache          http://dc-js.github.io/dc.js/
+Data Visualization (Diagrams):  JointJS       joint                 0.9.3   (2015-02) MPL             http://www.jointjs.com
 
-Graph (Data Structure)          Cytoscape.js  cytoscape             2.4.0   (2015-05) LGPL            http://js.cytoscape.org/
-Graph (Data Structure)          GraphLib      graphlib              1.0.0   (2014-08) MIT             https://github.com/cpettitt/graphlib
-Graph (Layouting)               Dagre         dagre-d3              0.4.6   (2014-08) MIT             https://github.com/cpettitt/dagre
+Graph (Data Structure)          Cytoscape.js  cytoscape             2.4.2   (2015-06) LGPL            http://js.cytoscape.org/
+Graph (Data Structure)          GraphLib      graphlib              1.0.4   (2015-05) MIT             https://github.com/cpettitt/graphlib
+Graph (Layouting)               Dagre         dagre-d3              0.4.8   (2015-05) MIT             https://github.com/cpettitt/dagre-d3
 
-Syntax Editing:                 CodeMirror    codemirror            4.2.0   (2014-05) MIT             http://codemirror.net/
-Syntax Formatting:              HighlightJS   highlightjs           8.0.0   (2014-01) MIT             http://highlightjs.org/
+Syntax Editing:                 CodeMirror    codemirror            5.4.0   (2015-06) MIT             http://codemirror.net/
+Syntax Formatting:              HighlightJS   highlightjs           8.6.0   (2015-05) MIT             http://highlightjs.org/
 Data Pretty-Printing:           Humanize      humanize              0.0.9   (2013-09) MIT             https://github.com/taijinlee/humanize
 
-Internationalization:           i18next       i18next               1.7.3   (2014-04) MIT             http://i18next.com/
+Internationalization:           i18next       i18next               1.10.1  (2015-06) MIT             http://i18next.com/
 Localization (Number):          NumeralJS     numeral               1.5.3   (2013-12) MIT             http://numeraljs.com/
-Localization (Date):            MomentJS      moment                2.6.0   (2014-04) MIT             http://momentjs.com/
-Localization (Currency):        AccountingJS  accounting            0.3.2   (2012-01) MIT             http://josscrowcroft.github.io/accounting.js/
+Localization (Date):            MomentJS      moment                2.10.3  (2015-05) MIT             http://momentjs.com/
+Localization (Currency):        AccountingJS  accounting            0.4.1   (2015-06) MIT             http://openexchangerates.github.io/accounting.js/
+Localization (Exchange Rate):   Money.js      money.js              0.1.3   (2012-01) MIT             http://openexchangerates.github.io/money.js/
 
-URL Routing:                    Director      director              1.2.2   (2013-12) MIT             https://github.com/flatiron/director
-URL Manipulation:               URI.js        uri.js                1.13.2  (2014-05) MIT/GPL         http://medialize.github.io/URI.js/
+URL Routing:                    Director      director              1.2.8   (2015-02) MIT             https://github.com/flatiron/director
+URL Manipulation:               URI.js        uri.js                1.15.1  (2015-04) MIT/GPL         http://medialize.github.io/URI.js/
 
-File Viewing:                   ViewerJS      viewerjs              0.5.4   (2014-09) AGPL            https://github.com/kogmbh/ViewerJS/
-ODF Rendering:                  WebODF        webodf                0.5.3   (2014-09) AGPL            http://webodf.org/
-PDF Rendering:                  PDF.js        pdfjs                 1.0.227 (2014-06) Apache          http://mozilla.github.io/pdf.js/
-PDF Generation (1):             PDFKit        pdfkit                0.6.3   (2014-07) MIT             http://pdfkit.org/
-PDF Generation (2):             jsPDF         jspdf                 1.0.150 (2014-06) MIT             http://jspdf.com/
-XLSX Parsing & Generation       JS-XLSX       js-xlsx               0.7.7   (2014-07) Apache          https://github.com/SheetJS/js-xlsx
-XLS  Parsing                    JS-XLS        js-xls                0.7.7   (2014-07) Apache          https://github.com/SheetJS/js-xls
+File Viewing:                   ViewerJS      viewerjs              0.5.7   (2015-04) AGPL            http://viewerjs.org/
+ODF Rendering:                  WebODF        webodf                0.5.7   (2015-04) AGPL            http://webodf.org/
+PDF Rendering:                  PDF.js        pdfjs                 1.1.215 (2015-06) Apache          http://mozilla.github.io/pdf.js/
+PDF Generation (1):             PDFKit        pdfkit                0.7.1   (2015-03) MIT             http://pdfkit.org/
+PDF Generation (2):             jsPDF         jspdf                 1.1.135 (2015-06) MIT             http://jspdf.com/
+XLSX Parsing & Generation       JS-XLSX       js-xlsx               0.8.0   (2015-03) Apache          https://github.com/SheetJS/js-xlsx
 
-LZS Compression/Uncompression:  LZ-String     lz-string             1.3.7   (2014-12) WTFPL           http://pieroxy.net/blog/pages/lz-string/index.html
-LZ4 Compression/Uncompression:  lz4           js-lz4                CURRENT (2015-01) MIT             https://github.com/pierrec/node-lz4
-ZIP Compression/Uncompression:  JSZip         jszip                 2.3.0   (2014-06) MIT/GPL         http://stuk.github.io/jszip/
+LZS Compression/Uncompression:  LZ-String     lz-string             1.3.9   (2015-05) WTFPL           http://pieroxy.net/blog/pages/lz-string/index.html
+LZ4 Compression/Uncompression:  lz4           js-lz4                CURRENT (2015-06) MIT             https://github.com/pierrec/node-lz4
+ZIP Compression/Uncompression:  JSZip         jszip                 2.5.0   (2015-03) MIT/GPL         http://stuk.github.io/jszip/
 
-Multimedia Playing (Audio):     Howler        howler                1.1.21  (2014-05) MIT             http://howlerjs.com/
-Multimedia Playing (Video):     Video.js      video.js              4.6.1   (2014-05) Apache          http://www.videojs.com/
-Multimedia Playing (Geo. Map):  LeafletJS     leaflet               0.7.3   (2014-07) MIT             http://leafletjs.com/
+Multimedia Playing (Audio):     Howler        howler                1.1.26  (2015-04) MIT             http://howlerjs.com/
+Multimedia Playing (Video):     Video.js      video.js              4.12.10 (2015-06) Apache          http://www.videojs.com/
+Multimedia Playing (Geo. Map):  LeafletJS     leaflet               0.7.3   (2014-05) MIT             http://leafletjs.com/
 
-Input Events (Keyboard):        MouseTrap     mousetrap             1.4.6   (2013-10) Apache          http://craig.is/killing/mice
-Input Events (Touch):           Hammer.js     hammerjs              1.1.3   (2014-05) MIT             http://eightmedia.github.io/hammer.js/
+Input Events (Keyboard):        MouseTrap     mousetrap             1.5.2   (2015-03) Apache          http://craig.is/killing/mice
+Input Events (Touch):           Hammer.js     hammerjs              2.0.4   (2014-09) MIT             http://hammerjs.github.io/
 
-Data Storage (Memory):          NeDB          nedb                  CURRENT (2014-04) MIT             https://github.com/louischatriot/nedb
+Data Storage (Memory):          NeDB          nedb                  CURRENT (2015-04) MIT             https://github.com/louischatriot/nedb
 Data Storage (Cookie):          jQuery-Cookie jquery-cookie         1.4.1   (2014-04) MIT             https://github.com/carhartl/jquery-cookie
-Data Storage (LocalStorage):    Store.js      store.js              1.3.16  (2014-03) MIT             https://github.com/marcuswestin/store.js
-Data Indexing:                  Lunr.js       lunr.js               0.5.3   (2014-05) MIT             http://lunrjs.com/
+Data Storage (LocalStorage):    Store.js      store.js              1.3.17  (2014-11) MIT             https://github.com/marcuswestin/store.js
+Data Indexing:                  Lunr.js       lunr.js               0.5.10  (2015-06) MIT             http://lunrjs.com/
 Data Serialization (JSON):      Cryo          cryo                  CURRENT (2013-10) MIT             https://github.com/hunterloftis/cryo
-Data Serialization (CBOR):      cbor-js       cbor                  CURRENT (2014-05) MIT             https://github.com/paroga/cbor-js/
+Data Serialization (CBOR):      cbor-js       cbor                  CURRENT (2014-07) MIT             https://github.com/paroga/cbor-js/
 Data Serialization (MsgPack):   msgpack-js    msgpack-js            0.3.0   (2013-07) MIT             https://github.com/creationix/msgpack-js
-Data Serialization (ProtoBuf):  ProtoBuf.js   protobuf              3.8.2   (2014-12) Apache          https://github.com/dcodeIO/ProtoBuf.js/
-Data Buffer:                    ByteBuffer    bytebuffer            3.5.4   (2014-12) Apache          https://github.com/dcodeIO/ByteBuffer.js
-Data Cache:                     Cache-LRU     cache-lru             1.0.0   (2015-02) MIT             https://github.com/rse/cache-lru (*)
+Data Serialization (ProtoBuf):  ProtoBuf.js   protobuf              4.0.0   (2015-06) Apache          https://github.com/dcodeIO/ProtoBuf.js/
+Data Buffer:                    ByteBuffer    bytebuffer            4.0.0   (2015-06) Apache          https://github.com/dcodeIO/ByteBuffer.js
+Data Cache:                     Cache-LRU     cache-lru             1.0.6   (2015-05) MIT             https://github.com/rse/cache-lru (*)
 
 Data Model Querying:            Query-Engine  query-engine          1.5.7   (2013-12) MIT             https://github.com/bevry/query-engine
 Data Model Querying:            JMESPath      jmespath              0.12.0  (2015-04) Apache          http://jmespath.org/
-Data Model Querying:            JSONSelect    jsonselect            0.4.0   (2014-06) MIT             http://jsonselect.org
+Data Model Querying:            JSONSelect    jsonselect            0.2.1   (2011-06) MIT             http://jsonselect.org
 Data Model Filtering:           Crossfilter   crossfilter           1.3.11  (2014-10) Apache          http://square.github.io/crossfilter/
 
-Text Language Detection:        Franc         franc                 0.2.0   (2014-10) LGPL            https://github.com/wooorm/franc
+Text Language Detection:        Franc         franc                 1.1.0   (2015-06) LGPL            https://github.com/wooorm/franc
 Text Parsing (Regular):         XRegExp       xregexp               2.0.0   (2012-05) MIT             http://xregexp.com/
-Text Parsing (Context-Free):    PEG.js        pegjs                 0.8.0   (2013-12) MIT             http://pegjs.majda.cz/
-Text Parsing Utilities (1):     PEG-OTF       pegjs-otf             1.0.0   (2015-01) MIT             https://github.com/rse/pegjs-otf (*)
-Text Parsing Utilities (2):     PEG-Util      pegjs-util            1.0.0   (2015-01) MIT             https://github.com/rse/pegjs-util (*)
-AST Data Structure:             ASTy          asty                  1.0.2   (2015-01) MIT             https://github.com/rse/asty (*)
-AST Query Language:             ASTq          astq                  1.2.0   (2015-01) MIT             https://github.com/rse/astq (*)
-Markdown Parsing (1):           Markdown-JS   markdown              0.6.0b1 (2013-09) MIT             https://github.com/evilstreak/markdown-js
-Markdown Parsing (2):           Marked        marked                0.3.2   (2014-03) MIT             https://github.com/chjj/marked/blob/master/package.json
-JavaScript Parsing (1):         Esprima       esprima               1.2.2   (2014-05) BSD             http://esprima.org/
-JavaScript Parsing (2):         Acorn         acorn                 0.6.0   (2014-06) MIT             https://github.com/marijnh/acorn
-CSV Parsing:                    PapaParse     papaparse.js          3.0.1   (2014-08) MIT             http://papaparse.com/
+Text Parsing (Context-Free):    PEG.js        pegjs                 0.8.0   (2013-12) MIT             http://pegjs.org/
+Text Parsing Utilities (1):     PEG-OTF       pegjs-otf             1.0.6   (2015-06) MIT             https://github.com/rse/pegjs-otf (*)
+Text Parsing Utilities (2):     PEG-Util      pegjs-util            1.0.5   (2015-06) MIT             https://github.com/rse/pegjs-util (*)
+Text Parsing Utilities (3):     Tokenizr      tokenizr              0.9.3   (2015-06) MIT             https://github.com/rse/tokenizr (*)
+AST Data Structure:             ASTy          asty                  1.2.0   (2015-06) MIT             https://github.com/rse/asty (*)
+AST Query Language:             ASTq          astq                  1.4.7   (2015-06) MIT             https://github.com/rse/astq (*)
+Markdown Parsing (1):           Marked        marked                0.3.3   (2015-01) MIT             https://github.com/chjj/marked
+Markdown Parsing (2):           Markdown-JS   markdown              0.6.0b1 (2013-09) MIT             https://github.com/evilstreak/markdown-js
+JavaScript Parsing (1):         Esprima       esprima               2.4.0   (2015-06) BSD             http://esprima.org/
+JavaScript Parsing (2):         Acorn         acorn                 2.0.4   (2015-06) MIT             https://github.com/marijnh/acorn
+CSV Parsing:                    PapaParse     papaparse.js          4.1.1   (2015-04) MIT             http://papaparse.com/
+YAML Parsing:                   JS-YAML       js-yaml               3.3.1   (2015-05) MIT             https://github.com/nodeca/js-yaml
 
-Mathematical Calculations:      MathJS        mathjs                1.0.0   (2014-09) MIT             http://mathjs.org/
+Mathematical Calculations:      MathJS        mathjs                1.7.0   (2015-05) MIT             http://mathjs.org/
 Mathematical Calculations:      NumericJS     numericjs             1.2.6   (2012-12) MIT             http://www.numericjs.com/
-Mathematical Calculations:      Long.js       long                  2.2.3   (2014-10) Apache          https://github.com/dcodeIO/Long.js
-Vector Data-Structure:          Vectorious    vectorious            2.0.0   (2015-03) MIT             http://mateogianolio.github.io/vectorious/
-Cryptography:                   CryptoJS      crypto-js-evanvosberg 3.1.2-2 (2013-12) MIT             https://code.google.com/p/crypto-js/
+Mathematical Calculations:      Long.js       long                  2.2.5   (2015-06) Apache          https://github.com/dcodeIO/Long.js
+Vector Data-Structure:          Vectorious    vectorious            2.2.0   (2015-04) MIT             http://mateogianolio.github.io/vectorious/
+Cryptography:                   CryptoJS      crypto-js             3.1.5   (2013-12) MIT             https://github.com/brix/crypto-js
 
-Functional Programming (1):     Lodash        lodash                2.4.1   (2013-12) MIT             http://lodash.com/
-Functional Programming (2):     HighlandJS    highland              1.26.3  (2014-08) Apache          http://highlandjs.org/
-Functional Programming (3):     RamdaJS       ramda                 0.5.0   (2014-10) MIT             http://ramdajs.com/
-String Formatting:              sprintfjs     sprintfjs             1.1.3   (2014-05) MIT             https://github.com/rse/sprintfjs (*)
-String Manipulation:            stringjs      string                1.9.0   (2014-07) MIT             http://stringjs.com/
-Value Validation:               Ducky         ducky                 2.1.1   (2014-01) MIT             http://duckyjs.com/              (*)
-Text Fonts:                     TypoPRO       typopro               2.1.0   (2014-05) Apache+OFL+PD   https://github.com/rse/typopro   (*)
-Icon Fonts:                     Font-Awesome  font-awesome          4.1.0   (2014-05) MIT+OFL         http://fontawesome.io/
-Unique Identifiers (1):         Pure-UUID     pure-uuid             0.9.1   (2015-02) MIT             https://github.com/rse/pure-uuid (*)
-Unique Identifiers (2):         Node-UUID     node-uuid             1.4.2   (2014-11) MIT             https://github.com/broofa/node-uuid
+Functional Programming (1):     Lodash        lodash                3.9.3   (2015-05) MIT             http://lodash.com/
+Functional Programming (2):     HighlandJS    highland              2.5.1   (2015-05) Apache          http://highlandjs.org/
+Functional Programming (3):     RamdaJS       ramda                 0.15.1  (2015-06) MIT             http://ramdajs.com/
+String Formatting:              sprintfjs     sprintfjs             1.1.9   (2015-04) MIT             https://github.com/rse/sprintfjs (*)
+String Manipulation:            stringjs      string                3.3.0   (2015-06) MIT             http://stringjs.com/
+Text Fonts:                     TypoPRO       typopro               3.2.1   (2015-06) Apache+OFL+PD   http://typopro.org (*)
+Icon Fonts:                     Font-Awesome  font-awesome          4.3.0   (2015-01) MIT+OFL         http://fontawesome.io/
+Unique Identifiers (1):         Pure-UUID     pure-uuid             1.0.4   (2015-06) MIT             https://github.com/rse/pure-uuid (*)
+Unique Identifiers (2):         Node-UUID     node-uuid             1.4.3   (2015-03) MIT             https://github.com/broofa/node-uuid
 Unique Identifiers (3):         UUID-js       uuid-js               0.7.5   (2013-06) Apache          https://github.com/aurigadl/uuid-js
-Promises (Full-Featured):       Bluebird      bluebird              2.0.1   (2014-06) MIT             https://github.com/petkaantonov/bluebird
-Promises (Embeddable, Minimum): Thenable      -                     1.0.4   (2014-07) MIT             https://github.com/rse/thenable
-Polyfill ECMAScript 5:          ES5-Shim      es5-shim              3.4.0   (2014-05) MIT             https://github.com/kriskowal/es5-shim/
-Polyfill ECMAScript 6:          ES6-Shim      es6-shim              0.12.0  (2014-06) MIT             https://github.com/paulmillr/es6-shim/
+Promises (Full-Featured):       Bluebird      bluebird              2.9.30  (2015-06) MIT             https://github.com/petkaantonov/bluebird
+Promises (Embeddable, Minimum): Thenable      -                     1.0.7   (2014-10) MIT             https://github.com/rse/thenable
+Polyfill ECMAScript 5:          ES5-Shim      es5-shim              4.1.7   (2015-06) MIT             https://github.com/kriskowal/es5-shim/
+Polyfill ECMAScript 6:          ES6-Shim      es6-shim              0.32.3  (2015-06) MIT             https://github.com/paulmillr/es6-shim/
 Object Orientation:             JSClass       jsclass               4.0.5   (2014-03) MIT             http://jsclass.jcoglan.com/
-Component System:               ComponentJS   componentjs           1.1.1   (2014-06) MPL             http://componentjs.com/          (*)
+Component System:               ComponentJS   componentjs           1.2.6   (2015-04) MPL             http://componentjs.com/          (*)
 
-Resource Loading:               curl          curl                  0.8.10  (2014-04) MIT             https://github.com/cujojs/curl
-AJAX Communication:             SuperAgent    superagent            0.18.2  (2014-07) MIT             http://visionmedia.github.io/superagent/
-WAMP Communication:             AutobahnJS    autobahn              0.9.3   (2014-06) MIT             http://autobahn.ws/js/
-Websocket Communication (1):    Socket.IO     socket.io             1.0.6   (2014-07) MIT             http://socket.io/
-Websocket Communication (2):    SockJS        sockjs-client         0.3.4   (2014-07) MIT             http://sockjs.org/
+Resource Loading:               curl          curl                  0.8.12  (2014-11) MIT             https://github.com/cujojs/curl
+AJAX Communication:             SuperAgent    superagent            1.2.0   (2015-04) MIT             http://visionmedia.github.io/superagent/
+WAMP Communication:             AutobahnJS    autobahn              0.9.6   (2015-03) MIT             http://autobahn.ws/js/
+Websocket Communication (1):    Socket.IO     socket.io             1.3.5   (2015-03) MIT             http://socket.io/
+Websocket Communication (2):    SockJS        sockjs-client         1.0.0   (2015-05) MIT             http://sockjs.org/
 
 Backend_Functionality           Product_Name  NPM_Id                Version Date      License         URL
 =============================== ============= ===================== ======= ========= =============== ========================
 
-REST Services:                  HAPI          hapi                  6.5.0   (2014-07) BSD             http://hapijs.com/
-Database Engine (1):            NeDB          nedb                  1.0.0   (2014-12) MIT             https://github.com/louischatriot/nedb
-Database Engine (2):            LokiJS        lokijs                1.1.0   (2014-12) BSD             http://lokijs.org/
-Database Engine (3):            AlaSQL        alasql                0.0.29  (2014-12) MIT             https://github.com/agershun/alasql
-Database Engine (4):            TaffyDB       taffydb               CURRENT (2013-03) BSD             http://taffydb.com/
-Database Adapter (Redis):       Node-Redis    redis                 0.11.0  (2014-08) MIT             https://github.com/mranney/node_redis
-Database Adapter (PostgreSQL):  Node-Postgres pg                    3.4.0   (2014-08) MIT             https://github.com/brianc/node-postgres
-Database Adapter (MongoDB):     Node-MongoDB  mongodb               1.4.8   (2014-08) Apache          https://github.com/mongodb/node-mongodb-native/
-Database Adapter (Neo4J):       Node-Neo4J    neo4j                 1.1.0   (2013-11) Apache          https://github.com/thingdom/node-neo4j
-ORM (PostgreSQL):               Sequelize     sequelize             2.0.0-d (2014-08) MIT             http://sequelizejs.com/
-ORM (PostgreSQL/Redis/MongoDB/Neo4J): JugglingDB jugglingdb         0.2.13  (2014-03) MIT             http://jugglingdb.co/
-ORM (MongoDB):                  Moongoose     mongoosejs            3.8.13  (2014-08) MIT             http://mongoosejs.com/
-RDBMS SQL Generator:            Knex          knex                  0.6.22  (2014-07) MIT             http://knexjs.org/
-Authentication:                 Passport      passport              0.2.0   (2014-01) MIT             http://passportjs.org/
-Parsing (Command Line Options): DashDash      dashdash              1.6.0   (2014-06) MIT             https://github.com/trentm/node-dashdash
-Parsing (YAML):                 Node-YAML     js-yaml               3.1.0   (2014-07) MIT             https://github.com/nodeca/js-yaml
+Component System:               Microkernel   microkernel           0.9.17  (2015-06) MIT             https://github.com/rse/microkernel (*)
+REST Services:                  HAPI          hapi                  8.6.1   (2015-05) BSD             http://hapijs.com/
+Database Engine (1):            NeDB          nedb                  CURRENT (2015-06) MIT             https://github.com/louischatriot/nedb
+Database Engine (2):            LokiJS        lokijs                1.3.4   (2015-06) BSD             http://lokijs.org/
+Database Engine (3):            AlaSQL        alasql                0.1.10  (2015-06) MIT             https://github.com/agershun/alasql
+Database Engine (4):            TaffyDB       taffydb               2.7     (2013-03) BSD             http://taffydb.com/
+Database Adapter (Redis):       Node-Redis    redis                 0.12.1  (2014-08) MIT             https://github.com/mranney/node_redis
+Database Adapter (PostgreSQL):  Node-Postgres pg                    4.4.0   (2015-05) MIT             https://github.com/brianc/node-postgres
+Database Adapter (MongoDB):     Node-MongoDB  mongodb               2.0.35  (2015-06) Apache          https://github.com/mongodb/node-mongodb-native/
+Database Adapter (Neo4J):       Node-Neo4J    neo4j                 1.1.1   (2014-10) Apache          https://github.com/thingdom/node-neo4j
+ORM (PostgreSQL):               Sequelize     sequelize             3.3.2   (2015-06) MIT             http://sequelizejs.com/
+ORM (PostgreSQL/Redis/MongoDB/Neo4J): JugglingDB jugglingdb         0.3.0   (2014-09) MIT             https://github.com/1602/jugglingdb
+ORM (MongoDB):                  Moongoose     mongoosejs            4.0.6   (2015-06) MIT             http://mongoosejs.com/
+RDBMS SQL Generator:            Knex          knex                  0.8.6   (2015-05) MIT             http://knexjs.org/
+Authentication:                 Passport      passport              0.2.2   (2015-05) MIT             http://passportjs.org/
+Parsing (Command Line Options): DashDash      dashdash              1.10.0  (2015-04) MIT             https://github.com/trentm/node-dashdash
+Parsing (YAML):                 Node-YAML     js-yaml               3.3.1   (2015-05) MIT             https://github.com/nodeca/js-yaml
 Parsing (INI):                  Node-INI      node-ini              1.0.0   (2012-07) MIT             https://github.com/pastorbones/node-ini
-Parsing (CSV):                  Node-CSV      node-csv              0.3.6   (2013-08) BSD             http://www.adaltas.com/projects/node-csv/
-Parsing (Markdown):             Marked        marked                0.3.2   (2014-03) MIT             https://github.com/chjj/marked/blob/master/package.json
-Data Serialization (CBOR):      cbor          cbor                  0.3.10  (2014-06) MIT             http://github.com/hildjj/node-cbor/
-Data Serialization (MsgPack):   msgpack5      msgpack5              1.3.2   (2014-11) MIT             https://github.com/mcollina/msgpack5/
-Data Serialization (ProtoBuf):  ProtoBuf.js   protobufjs            3.8.2   (2014-12) Apache          https://github.com/dcodeIO/ProtoBuf.js/
-Data Bufer:                     ByteBuffer    bytebuffer            3.5.4   (2014-12) Apache          https://github.com/dcodeIO/ByteBuffer.js
-Logging:                        Winston       winston               0.7.3   (2014-03) MIT             https://github.com/flatiron/winston
-Terminal Input Prompting:       Inquirer      inquirer              0.6.0   (2014-08) MIT             https://github.com/SBoudrias/Inquirer.js
-Terminal Output Colorization:   Chalk         chalk                 0.5.1   (2014-07) MIT             https://github.com/sindresorhus/chalk
-Terminal Output Progression:    Progress      progress              1.1.5   (2014-03) MIT             https://github.com/visionmedia/node-progress
-HTTP Client:                    Request       request               2.40.1  (2014-08) Apache          https://github.com/mikeal/request
-Unique Identifiers (1):         Pure-UUID     pure-uuid             0.9.1   (2015-02) MIT             https://github.com/rse/pure-uuid
-Unique Identifiers (2):         Node-UUID     node-uuid             1.4.2   (2014-11) MIT             https://github.com/broofa/node-uuid
-Mathematical Calculations:      Long.js       long                  2.2.3   (2014-10) Apache          https://github.com/dcodeIO/Long.js
-Cryptography (1):               CryptoJS      crypto-js             3.1.2   (2014-08) MIT             https://github.com/evanvosberg/crypto-js
-Cryptography (2):               SJCL          sjcl                  1.0.1   (2014-01) MIT             https://github.com/bitwiseshiftleft/sjcl/tree/version-0.8
-Data Structure Validation (1):  Ducky         ducky                 2.1.1   (2014-05) MIT             http://duckyjs.com/ (*)
-Data Structure Validation (2):  JOI           joi                   4.6.2   (2014-08) BSD             https://github.com/hapijs/joi
+Parsing (CSV):                  Node-CSV      node-csv              0.4.5   (2015-06) BSD             http://www.adaltas.com/projects/node-csv/
+Parsing (CSV):                  PapaParse     papaparse.js          4.1.1   (2015-04) MIT             http://papaparse.com/
+Parsing (Markdown):             Marked        marked                0.3.3   (2015-01) MIT             https://github.com/chjj/marked
+Data Serialization (CBOR):      cbor          cbor                  0.3.14  (2015-05) MIT             https://github.com/hildjj/node-cbor/
+Data Serialization (MsgPack):   msgpack5      msgpack5              2.3.0   (2015-05) MIT             https://github.com/mcollina/msgpack5/
+Data Serialization (ProtoBuf):  ProtoBuf.js   protobufjs            4.0.0   (2015-06) Apache          https://github.com/dcodeIO/ProtoBuf.js/
+Data Bufer:                     ByteBuffer    bytebuffer            4.0.0   (2015-06) Apache          https://github.com/dcodeIO/ByteBuffer.js
+Logging:                        Winston       winston               1.0.1   (2015-06) MIT             https://github.com/flatiron/winston
+Terminal Input Prompting:       Inquirer      inquirer              0.8.5   (2015-05) MIT             https://github.com/SBoudrias/Inquirer.js
+Terminal Output Colorization:   Chalk         chalk                 1.0.0   (2015-02) MIT             https://github.com/sindresorhus/chalk
+Terminal Output Progression:    Progress      progress              1.1.8   (2014-08) MIT             https://github.com/tj/node-progress
+HTTP Client:                    Request       request               2.58.1  (2015-06) Apache          https://github.com/mikeal/request
+Unique Identifiers (1):         Pure-UUID     pure-uuid             1.0.4   (2015-06) MIT             https://github.com/rse/pure-uuid
+Unique Identifiers (2):         Node-UUID     node-uuid             1.4.3   (2015-03) MIT             https://github.com/broofa/node-uuid
+Mathematical Calculations:      Long.js       long                  2.2.5   (2015-06) Apache          https://github.com/dcodeIO/Long.js
+Cryptography (1):               CryptoJS      crypto-js             3.1.5   (2013-12) MIT             https://github.com/brix/crypto-js
+Cryptography (2):               SJCL          sjcl                  1.0.3   (2015-03) MIT             https://github.com/bitwiseshiftleft/sjcl/
+Data Structure Validation (1):  Ducky         ducky                 2.1.3   (2015-01) MIT             http://duckyjs.com/ (*)
+Data Structure Validation (2):  JOI           joi                   6.5.0   (2015-06) BSD             https://github.com/hapijs/joi
 
