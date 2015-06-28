@@ -72,6 +72,8 @@ Controls (Instructions):        Hopscotch     hopscotch             0.2.4   (201
 Controls (Autocompletion):      Typeahead     typeahead.js          0.11.1  (2015-04) MIT             https://github.com/twitter/typeahead.js/
 Controls (Scrollbar):           Perfect-Scrollbar perfect-scrollbar 0.6.3   (2015-06) MIT             https://github.com/noraesae/perfect-scrollbar/
 Controls (Scrolling):           ScrollMagic   ScrollMagic           2.0.5   (2015-04) MIT/GPL         http://janpaepke.github.io/ScrollMagic
+Controls (Scrolling):           fullPage      fullpage.js           2.2.6   (2015-05) MIT             http://alvarotrigo.com/fullPage/
+Controls (Scrolling):           OnePageScroll onepage-scroll        1.3.1   (2014-08) GPL             http://www.thepetedesign.com/demos/onepage_scroll_demo.html
 Controls (Tree):                jsTree        jstree                3.1.1   (2015-05) MIT             http://www.jstree.com/
 Controls (Spreadsheet):         SlickGrid     slickgrid             2.1.0   (2013-07) MIT             https://github.com/mleibman/SlickGrid/
 Controls (Spreadsheet):         Handsontable  handsontable          0.15.1  (2015-06) MIT             http://handsontable.com/
@@ -81,19 +83,31 @@ Controls (In-Place Editing):    Grande.js     grande                CURRENT (201
 Controls (In-Place Editing):    Pen           pen                   0.1.0   (2015-02) MIT             http://sofish.github.io/pen/
 Controls (Drag & Drop):         Dragabilly    dragabilly            1.2.4   (2015-05) MIT             https://github.com/desandro/draggabilly
 Controls (Drag & Drop):         Interact      interact              1.2.4   (2015-03) MIT             http://interactjs.io/
+Controls (Drag & Drop):         Dropzone      dropzone              4.0.1   (2015-02) MIT             http://www.dropzonejs.com/
 Controls (Modal Windows):       jBox          jbox                  0.3.2   (2014-10) MIT             https://github.com/StephanWagner/jBox/
 Controls (Progress):            Ladda         ladda                 0.9.8   (2015-04) MIT             http://lab.hakim.se/ladda/
+Controls (Progress):            NProgress     nprogress             0.2.0   (2015-05) MIT             http://ricostacruz.com/nprogress
+Controls (Progress):            Spin.js       spin.js               2.3.1   (2015-06) MIT             http://spin.js.org/
 Controls (Alerting):            SweetAlert    sweetalert            1.0.1   (2015-05) MIT             http://tristanedwards.me/sweetalert
 Controls (Alerting):            AlertifyJS    alertifyjs            0.3.16  (2015-01) MIT             http://alertifyjs.org/
 Controls (Alerting):            NotifyJS      notifyjs              0.3.2   (2014-06) MIT             http://notifyjs.com/
 Controls (Tooltip):             QTip2         qtip2                 2.2.1   (2014-09) MIT             http://qtip2.com/
 Controls (Tooltip):             ToolTipster   tooltipster           3.3.0   (2014-11) MIT             http://iamceege.github.io/tooltipster/
 Controls (Sidebar):             Simpler-Sidebar simpler-sidebar     1.2.3   (2015-06) MIT             http://dcdeiv.github.io/simpler-sidebar/
+Controls (Header):              Headroom.js   headroom.js           0.7.0   (2014-07) MIT             http://wicky.nillia.ms/headroom.js/
 
 Layouting (Pages):              Swiper.js     swiper                3.0.8   (2015-06) MIT/GPL         http://www.idangero.us/swiper/
 Layouting (Tiles):              Masonry       masonry               3.3.0   (2015-04) MIT             http://masonry.desandro.com/
 Layouting (Tiles):              Gridster      gridster              0.5.6   (2014-09) MIT             http://gridster.net/
 Layouting (Slider):             Slick         slick-carousel        1.5.5   (2015-05) MIT             http://kenwheeler.github.io/slick/
+
+Typography (Sizing):            FitText       FitText.js            1.2.0   (2014-08) WTFPL           http://wicky.nillia.ms/headroom.js/
+Typography (Sizing):            Font-To-Width font-to-width         CURRENT (2015-02) MIT             http://font-to-width.com/
+Typography (Sizing):            FlowType      flowtype              1.1.0   (2014-08) MIT             http://simplefocus.com/flowtype/
+Typography (Kerning):           Lettering     letteringjs           0.7.0   (2014-11) WTFPL           http://letteringjs.com/
+Typography (Kerning):           Kerning       kerning.js            CURRENT (2013-06) MIT             http://kerningjs.com/
+Typography (Animation):         Blast.js      blast-text            2.0.0   (2015-02) MIT             http://julian.com/research/blast/
+Typography (Animation):         Textillate    textillate            0.4.0   (2015-03) WTFPL           http://jschr.github.io/textillate/
 
 Feature Detection:              Modernizr     modernizr             2.8.3   (2014-07) MIT             http://modernizr.com/
 Viewport Monitoring:            jQuery-Stage  jquery-stage          1.1.7   (2015-02) MIT             https://github.com/rse/jquery-stage (*)
@@ -108,12 +122,14 @@ Data Binding (5):               Knockout      knockout              3.3.0   (201
 Data Binding (6):               way.js        way.js                CURRENT (2014-07) MIT             http://gwendall.github.io/way/
 Data Binding (7):               databind      databind              0.4.1   (2015-04) MIT             https://github.com/grnadav/databind
 Data Validation (1):            ParsleyJS     parsleyjs             2.1.2   (2015-06) MIT             http://parsleyjs.org/
-Data Validation (2):            Ducky         ducky                 2.1.3   (2015-01) MIT             http://duckyjs.com/ (*)
+Data Validation (2):            jQueryValidation jqueryvalidation   1.13.1  (2014-10) MIT             http://jqueryvalidation.org/
+Data Validation (3):            Ducky         ducky                 2.1.3   (2015-01) MIT             http://duckyjs.com/ (*)
 
 Style Resetting (1):            Normalize.css normalize.css         3.0.2   (2015-03) MIT             http://necolas.github.io/normalize.css/
 Style Resetting (2):            Sanitize.css  sanitize.css          2.0.0   (2014-02) MIT             https://github.com/ZDroid/sanitize.css
 Style Makro Processor:          LESS          less                  2.5.1   (2015-05) Apache          http://lesscss.org/
 Style Makro Set:                LESSHat       lesshat               3.0.2   (2014-06) MIT             http://lesshat.com/
+Style Makro Set:                More-Or-Less  more-or-less          1.5.1   (2014-09) MIT             http://more-or-less.org/
 Style Grid System:              GridLESS      gridless              1.0.2   (2014-08) MIT             https://github.com/rse/gridless (*)
 
 Animations (Abstraction):       Tweene        tweene                0.5.8   (2015-06) Artistic        http://tweene.com
@@ -158,6 +174,8 @@ Localization (Exchange Rate):   Money.js      money.js              0.1.3   (201
 
 URL Routing:                    Director      director              1.2.8   (2015-02) MIT             https://github.com/flatiron/director
 URL Manipulation:               URI.js        uri.js                1.15.1  (2015-04) MIT/GPL         http://medialize.github.io/URI.js/
+URL History (1):                HTML5HistoryAPI html5-history-api   4.2.1   (2015-05) MIT/GPL         https://github.com/devote/HTML5-History-API
+URL History (2):                History.js    history.js            1.8.0b2 (2013-06) BSD             https://github.com/browserstate/history.js
 
 File Viewing:                   ViewerJS      viewerjs              0.5.7   (2015-04) AGPL            http://viewerjs.org/
 ODF Rendering:                  WebODF        webodf                0.5.7   (2015-04) AGPL            http://webodf.org/
@@ -176,6 +194,7 @@ Multimedia Playing (Geo. Map):  LeafletJS     leaflet               0.7.3   (201
 
 Input Events (Keyboard):        MouseTrap     mousetrap             1.5.2   (2015-03) Apache          http://craig.is/killing/mice
 Input Events (Touch):           Hammer.js     hammerjs              2.0.4   (2014-09) MIT             http://hammerjs.github.io/
+Input Events (Touch):           FastClick     fastclick             1.0.5   (2015-01) MIT             https://github.com/ftlabs/fastclick
 
 Data Storage (Memory):          NeDB          nedb                  CURRENT (2015-04) MIT             https://github.com/louischatriot/nedb
 Data Storage (Cookie):          jQuery-Cookie jquery-cookie         1.4.1   (2014-04) MIT             https://github.com/carhartl/jquery-cookie
@@ -236,6 +255,7 @@ AJAX Communication:             SuperAgent    superagent            1.2.0   (201
 WAMP Communication:             AutobahnJS    autobahn              0.9.6   (2015-03) MIT             http://autobahn.ws/js/
 Websocket Communication (1):    Socket.IO     socket.io             1.3.5   (2015-03) MIT             http://socket.io/
 Websocket Communication (2):    SockJS        sockjs-client         1.0.0   (2015-05) MIT             http://sockjs.org/
+Git Communication:              JS-Git        js-git                0.7.7   (2014-12) MIT             https://github.com/creationix/js-git
 
 Backend_Functionality           Product_Name  NPM_Id                Version Date      License         URL
 =============================== ============= ===================== ======= ========= =============== ========================
