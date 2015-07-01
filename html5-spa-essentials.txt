@@ -74,6 +74,7 @@ Controls (Scrollbar):           Perfect-Scrollbar perfect-scrollbar 0.6.3   (201
 Controls (Scrolling):           ScrollMagic   ScrollMagic           2.0.5   (2015-04) MIT/GPL         http://janpaepke.github.io/ScrollMagic
 Controls (Scrolling):           fullPage      fullpage.js           2.2.6   (2015-05) MIT             http://alvarotrigo.com/fullPage/
 Controls (Scrolling):           OnePageScroll onepage-scroll        1.3.1   (2014-08) GPL             http://www.thepetedesign.com/demos/onepage_scroll_demo.html
+Controls (Scrolling):           Waypoints     waypoints             3.1.1   (2015-01) MIT             http://imakewebthings.com/waypoints/
 Controls (Tree):                jsTree        jstree                3.1.1   (2015-05) MIT             http://www.jstree.com/
 Controls (Spreadsheet):         SlickGrid     slickgrid             2.1.0   (2013-07) MIT             https://github.com/mleibman/SlickGrid/
 Controls (Spreadsheet):         Handsontable  handsontable          0.15.1  (2015-06) MIT             http://handsontable.com/
@@ -123,12 +124,14 @@ Data Binding (4):               jQueryMy      jquerymy              1.1.7   (201
 Data Binding (5):               Knockout      knockout              3.3.0   (2015-02) MIT             http://knockoutjs.com/
 Data Binding (6):               way.js        way.js                CURRENT (2014-07) MIT             http://gwendall.github.io/way/
 Data Binding (7):               databind      databind              0.4.1   (2015-04) MIT             https://github.com/grnadav/databind
+Data Binding (8):               riot          riot                  2.2.1   (2015-06) MIT             https://muut.com/riotjs/
 Data Validation (1):            ParsleyJS     parsleyjs             2.1.2   (2015-06) MIT             http://parsleyjs.org/
 Data Validation (2):            jQueryValidation jqueryvalidation   1.13.1  (2014-10) MIT             http://jqueryvalidation.org/
 Data Validation (3):            Ducky         ducky                 2.1.3   (2015-01) MIT             http://duckyjs.com/ (*)
 
 Style Resetting (1):            Normalize.css normalize.css         3.0.2   (2015-03) MIT             http://necolas.github.io/normalize.css/
 Style Resetting (2):            Sanitize.css  sanitize.css          2.0.0   (2014-02) MIT             https://github.com/ZDroid/sanitize.css
+Style Makro Processor:          Stylus        stylus                0.51.1  (2015-04) MIT             http://learnboost.github.io/stylus/
 Style Makro Processor:          LESS          less                  2.5.1   (2015-05) Apache          http://lesscss.org/
 Style Makro Set:                LESSHat       lesshat               3.0.2   (2014-06) MIT             http://lesshat.com/
 Style Makro Set:                More-Or-Less  more-or-less          1.5.1   (2014-09) MIT             http://more-or-less.org/
@@ -158,6 +161,7 @@ Data Visualization:             D3            d3                    3.5.5   (201
 Data Visualization (Charting):  D3Plus        d3plus                1.7.4   (2015-06) MIT             http://d3plus.org/
 Data Visualization (Charting):  Dimple        dimple                2.1.2   (2014-10) MIT             http://dimplejs.org/
 Data Visualization (Charting):  D4            d4                    0.9.4   (2015-04) MIT             https://github.com/heavysixer/d4
+Data Visualization (Charting):  NVD3          nvd3                  1.8.1   (2015-06) Apache          http://nvd3.org
 Data Visualization (Charting):  DC.js         dcjs                  2.0.0   (2015-06) Apache          http://dc-js.github.io/dc.js/
 Data Visualization (Diagrams):  JointJS       joint                 0.9.3   (2015-02) MPL             http://www.jointjs.com
 
@@ -216,6 +220,7 @@ Data Model Querying:            Query-Engine  query-engine          1.5.7   (201
 Data Model Querying:            JMESPath      jmespath              0.12.0  (2015-04) Apache          http://jmespath.org/
 Data Model Querying:            JSONSelect    jsonselect            0.2.1   (2011-06) MIT             http://jsonselect.org
 Data Model Filtering:           Crossfilter   crossfilter           1.3.11  (2014-10) Apache          http://square.github.io/crossfilter/
+Data Model Filtering:           Nanoscope     nanoscope             2.2.0   (2015-06) MIT             http://kovach.me/nanoscope/
 
 Text Language Detection:        Franc         franc                 1.1.0   (2015-06) LGPL            https://github.com/wooorm/franc
 Text Parsing (Regular):         XRegExp       xregexp               2.0.0   (2012-05) MIT             http://xregexp.com/
