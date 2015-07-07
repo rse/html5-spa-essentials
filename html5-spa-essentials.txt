@@ -167,6 +167,7 @@ Data Visualization (Charting):  D4            d4                    0.9.4   (201
 Data Visualization (Charting):  NVD3          nvd3                  1.8.1   (2015-06) Apache          http://nvd3.org
 Data Visualization (Charting):  DC.js         dcjs                  2.0.0   (2015-06) Apache          http://dc-js.github.io/dc.js/
 Data Visualization (Diagrams):  JointJS       joint                 0.9.3   (2015-02) MPL             http://www.jointjs.com
+Data Visualization (Layouting): Cola          webcola               3.1.2   (2015-04) MIT             http://marvl.infotech.monash.edu/webcola/
 
 Graph (Data Structure)          Cytoscape.js  cytoscape             2.4.2   (2015-06) LGPL            http://js.cytoscape.org/
 Graph (Data Structure)          GraphLib      graphlib              1.0.4   (2015-05) MIT             https://github.com/cpettitt/graphlib
