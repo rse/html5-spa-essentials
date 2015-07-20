@@ -86,6 +86,7 @@ Controls (In-Place Editing):    Medium-Editor medium-editor         5.1.0   (201
 Controls (In-Place Editing):    Grande.js     grande                CURRENT (2014-07) MIT             http://mattduvall.com/grande.js/
 Controls (In-Place Editing):    Pen           pen                   0.1.0   (2015-02) MIT             http://sofish.github.io/pen/
 Controls (Drag & Drop):         Dragabilly    dragabilly            1.2.4   (2015-05) MIT             https://github.com/desandro/draggabilly
+Controls (Drag & Drop):         Dragula       dragula               2.0.5   (2015-07) MIT             http://bevacqua.github.io/dragula/
 Controls (Drag & Drop):         Interact      interact              1.2.4   (2015-03) MIT             http://interactjs.io/
 Controls (Drag & Drop):         Dropzone      dropzone              4.0.1   (2015-02) MIT             http://www.dropzonejs.com/
 Controls (Modal Windows):       jBox          jbox                  0.3.2   (2014-10) MIT             https://github.com/StephanWagner/jBox/
@@ -128,6 +129,7 @@ Data Binding (5):               Knockout      knockout              3.3.0   (201
 Data Binding (6):               way.js        way.js                CURRENT (2014-07) MIT             http://gwendall.github.io/way/
 Data Binding (7):               databind      databind              0.4.1   (2015-04) MIT             https://github.com/grnadav/databind
 Data Binding (8):               riot          riot                  2.2.1   (2015-06) MIT             https://muut.com/riotjs/
+Data Binding (9):               cycle         cycle                 1.0.0   (2015-07) MIT             http://cycle.js.org/
 Data Validation (1):            ParsleyJS     parsleyjs             2.1.2   (2015-06) MIT             http://parsleyjs.org/
 Data Validation (2):            jQueryValidation jqueryvalidation   1.13.1  (2014-10) MIT             http://jqueryvalidation.org/
 Data Validation (3):            Ducky         ducky                 2.1.3   (2015-01) MIT             http://duckyjs.com/ (*)
