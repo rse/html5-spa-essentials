@@ -57,6 +57,7 @@ DOM Manipulation (4):           Chash         cash                  1.0.0   (201
 DOM Manipulation (5):           Laroux        laroux                2.1.0   (2015-06) Apache          https://larukedi.github.io/laroux.js/
 DOM Manipulation (6):           GrindstoneJS  grindstone            1.2.5   (2015-05) MIT             http://grindstonejs.drzwebdev.com/
 DOM Manipulation (7):           Sprint        sprint.js             CURRENT (2015-04) MIT             https://github.com/bendc/sprint
+DOM Manipulation (8):           DOMTastic     domtastic             0.11.1  (2015-07) MIT             http://webpro.github.io/DOMtastic/
 DOM Updating (1):               VirtualDOM    virtual-dom           2.0.1   (2015-07) MIT             https://github.com/Matt-Esch/virtual-dom
 DOM Updating (2):               FastDOM       fastdom               0.8.6   (2015-07) MIT             https://github.com/wilsonpage/fastdom
 DOM Event Delegation:           DOM-Delegate  dom-delegate          2.0.3   (2014-08) MIT             https://github.com/ftlabs/ftdomdelegate
