@@ -173,6 +173,7 @@ Data Visualization (Charting):  DC.js         dcjs                  2.0.0   (201
 Data Visualization (Charting):  C3.js         c3                    0.4.11  (2015-07) MIT             http://c3js.org/
 Data Visualization (Charting):  Epoch         epoch                 0.6.0   (2015-07) MIT             http://fastly.github.io/epoch/
 Data Visualization (Charting):  xCharts       xcharts               0.3.0   (2015-07) MIT             http://tenxer.github.io/xcharts/
+Data Visualization (Charting):  TauCharts     taucharts             0.5.0   (2015-07) Apache          http://www.taucharts.com/
 Data Visualization (Diagrams):  JointJS       joint                 0.9.3   (2015-02) MPL             http://www.jointjs.com
 Data Visualization (Layouting): Cola          webcola               3.1.2   (2015-04) MIT             http://marvl.infotech.monash.edu/webcola/
 
