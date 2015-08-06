@@ -82,6 +82,7 @@ Controls (Scrolling):           Waypoints     waypoints             3.1.1   (201
 Controls (Tree):                jsTree        jstree                3.1.1   (2015-05) MIT             http://www.jstree.com/
 Controls (Spreadsheet):         SlickGrid     slickgrid             2.1.0   (2013-07) MIT             https://github.com/mleibman/SlickGrid/
 Controls (Spreadsheet):         Handsontable  handsontable          0.15.1  (2015-06) MIT             http://handsontable.com/
+Controls (In-Place Editing):    ProseMirror   prosemirror           CURRENT (2015-07) MIT             http://prosemirror.net/
 Controls (In-Place Editing):    X-Editable    x-editable            1.5.1   (2013-10) MIT             http://vitalets.github.io/x-editable/
 Controls (In-Place Editing):    Medium-Editor medium-editor         5.1.0   (2015-06) MIT             http://daviferreira.github.io/medium-editor/
 Controls (In-Place Editing):    Grande.js     grande                CURRENT (2014-07) MIT             http://mattduvall.com/grande.js/
@@ -101,6 +102,7 @@ Controls (Tooltip):             QTip2         qtip2                 2.2.1   (201
 Controls (Tooltip):             ToolTipster   tooltipster           3.3.0   (2014-11) MIT             http://iamceege.github.io/tooltipster/
 Controls (Sidebar):             Simpler-Sidebar simpler-sidebar     1.2.3   (2015-06) MIT             http://dcdeiv.github.io/simpler-sidebar/
 Controls (Header):              Headroom.js   headroom.js           0.7.0   (2014-07) MIT             http://wicky.nillia.ms/headroom.js/
+Controls (Resizing):            Clay          clay                  0.1.2   (2015-07) MIT             http://zzarcon.github.io/clay/
 
 Layouting (Pages):              Swiper.js     swiper                3.0.8   (2015-06) MIT/GPL         http://www.idangero.us/swiper/
 Layouting (Tiles):              Masonry       masonry               3.3.0   (2015-04) MIT             http://masonry.desandro.com/
