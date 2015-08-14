@@ -258,6 +258,10 @@ Mathematical Calculations:      Fraction.js   fraction.js           2.3.0   (201
 Mathematical Calculations:      Complex.js    complex.js            1.1.0   (2015-06) MIT/GPL         https://github.com/infusion/Complex.js
 Vector Data-Structure:          Vectorious    vectorious            2.2.0   (2015-04) MIT             http://mateogianolio.github.io/vectorious/
 Cryptography:                   CryptoJS      crypto-js             3.1.5   (2013-12) MIT             https://github.com/brix/crypto-js
+Neural Networks (1):            Mind          mind                  CURRENT (2015-08) MIT             http://www.mindjs.net/
+Neural Networks (2):            ConvNetJS     convnetjs             1.1.0   (2014-09) MIT             https://github.com/karpathy/convnetjs
+Neural Networks (3):            Synaptic      synaptic              1.0.1   (2015-07) MIT             http://synaptic.juancazala.com/
+Neural Networks (4):            Brain         brain                 0.7.0   (2014-07) MIT             https://github.com/harthur/brain
 
 Functional Programming (1):     Lodash        lodash                3.9.3   (2015-05) MIT             http://lodash.com/
 Functional Programming (2):     HighlandJS    highland              2.5.1   (2015-05) Apache          http://highlandjs.org/
