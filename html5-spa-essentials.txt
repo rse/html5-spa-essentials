@@ -136,12 +136,16 @@ Data Binding (4):               jQueryMy      jquerymy              1.1.7   (201
 Data Binding (5):               Knockout      knockout              3.3.0   (2015-02) MIT             http://knockoutjs.com/
 Data Binding (6):               way.js        way.js                CURRENT (2014-07) MIT             http://gwendall.github.io/way/
 Data Binding (7):               databind      databind              0.4.1   (2015-04) MIT             https://github.com/grnadav/databind
-Data Binding (8):               riot          riot                  2.2.1   (2015-06) MIT             https://muut.com/riotjs/
+Data Binding (8):               Riot          riot                  2.2.1   (2015-06) MIT             https://muut.com/riotjs/
 Data Binding (9):               cycle         cycle                 1.0.0   (2015-07) MIT             http://cycle.js.org/
+Data Binding (10):              React         react                 0.13.3  (2015-08) BSD             http://facebook.github.io/react/
 Data Validation (1):            ParsleyJS     parsleyjs             2.1.2   (2015-06) MIT             http://parsleyjs.org/
 Data Validation (2):            jQueryValidation jqueryvalidation   1.13.1  (2014-10) MIT             http://jqueryvalidation.org/
 Data Validation (3):            Ducky         ducky                 2.1.3   (2015-01) MIT             http://duckyjs.com/ (*)
 Data Validation (4):            XType         xtypejs               0.4.2   (2015-06) MIT             http://xtype.js.org/getit
+Virtual DOM (1):                Virtual-DOM   virtual-dom           2.1.1   (2015-09) MIT             https://github.com/Matt-Esch/virtual-dom
+Virtual DOM (2):                Incremental-DOM incremental-dom     0.1.0   (2015-09) Apache             https://github.com/google/incremental-dom
+Virtual DOM Templating:         SuperViews.js  superviews.js        CURRENT (2015-09) MIT             https://github.com/davidjamesstone/superviews.js
 
 Style Resetting (1):            Normalize.css normalize.css         3.0.2   (2015-03) MIT             http://necolas.github.io/normalize.css/
 Style Resetting (2):            Sanitize.css  sanitize.css          2.0.0   (2014-02) MIT             https://github.com/ZDroid/sanitize.css
@@ -172,6 +176,7 @@ Physics Engine (2D):            Matter.js     Matter                0.8.0   (201
 Physics Engine (3D):            Physijs       Physijs               CURRENT (2014-09) MIT             http://chandlerprall.github.io/Physijs/
 
 Data Visualization:             D3            d3                    3.5.5   (2015-02) BSD             http://d3js.org/
+Data Visualization (Reusing):   d3.chart      d3-chart              0.2.1   (2014-09) MIT             https://github.com/misoproject/d3.chart
 Data Visualization (Charting):  D3Plus        d3plus                1.7.4   (2015-06) MIT             http://d3plus.org/
 Data Visualization (Charting):  Dimple        dimple                2.1.2   (2014-10) MIT             http://dimplejs.org/
 Data Visualization (Charting):  NVD3          nvd3                  1.8.1   (2015-06) Apache          http://nvd3.org
@@ -184,6 +189,7 @@ Data Visualization (Charting):  DC.js         dcjs                  2.0.0   (201
 Data Visualization (Charting):  Epoch         epoch                 0.6.0   (2015-07) MIT             http://fastly.github.io/epoch/
 Data Visualization (Charting):  xCharts       xcharts               0.3.0   (2015-07) MIT             http://tenxer.github.io/xcharts/
 Data Visualization (Charting):  uvCharts      uvCharts              1.1.0   (2015-09) MIT             http://imaginea.github.io/uvCharts/
+Data Visualization (Charting):  Vega          vega                  2.2.4   (2015-09) BSD             https://github.com/vega/vega
 Data Visualization (Timeseries): Rickshaw     rickshaw              1.5.1   (2015-09) MIT             http://code.shutterstock.com/rickshaw/
 Data Visualization (Timeseries): Cubism.js    cubism                1.6.0   (2015-09) Apache          https://square.github.io/cubism/
 Data Visualization (Diagrams):  JointJS       joint                 0.9.3   (2015-02) MPL             http://www.jointjs.com
