@@ -285,6 +285,8 @@ Neural Networks (2):            ConvNetJS     convnetjs             1.1.0   (201
 Neural Networks (3):            Synaptic      synaptic              1.0.1   (2015-07) MIT             http://synaptic.juancazala.com/
 Neural Networks (4):            Brain         brain                 0.7.0   (2014-07) MIT             https://github.com/harthur/brain
 
+Reactive Programming (1):       RxJS          rx                    3.1.2   (2015-09) Apache          http://reactivex.io/
+Reactive Programming (2):       Kefir         kefir                 2.8.2   (2015-09) MIT             https://rpominov.github.io/kefir/
 Functional Programming (1):     Lodash        lodash                3.9.3   (2015-05) MIT             http://lodash.com/
 Functional Programming (2):     HighlandJS    highland              2.5.1   (2015-05) Apache          http://highlandjs.org/
 Functional Programming (3):     RamdaJS       ramda                 0.15.1  (2015-06) MIT             http://ramdajs.com/
