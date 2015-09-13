@@ -318,6 +318,8 @@ Database Engine (2):            LokiJS        lokijs                1.3.4   (201
 Database Engine (3):            AlaSQL        alasql                0.1.10  (2015-06) MIT             https://github.com/agershun/alasql
 Database Engine (4):            TaffyDB       taffydb               2.7     (2013-03) BSD             http://taffydb.com/
 Database Engine (5):            LowDB         lowdb                 0.10.1  (2015-07) MIT             https://github.com/typicode/lowdb
+Database Engine (6):            TingoDB       tingodb               0.4.0   (2015-09) MIT             http://www.tingodb.com/
+Database Engine (7):            Lovefield     lovefield             2.0.62  (2015-09) Apache          https://google.github.io/lovefield/
 Database Adapter (Redis):       Node-Redis    redis                 0.12.1  (2014-08) MIT             https://github.com/mranney/node_redis
 Database Adapter (PostgreSQL):  Node-Postgres pg                    4.4.0   (2015-05) MIT             https://github.com/brianc/node-postgres
 Database Adapter (MongoDB):     Node-MongoDB  mongodb               2.0.35  (2015-06) Apache          https://github.com/mongodb/node-mongodb-native/
