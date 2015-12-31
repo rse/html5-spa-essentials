@@ -84,6 +84,7 @@ Controls (Table):               DataTables    datatables            1.10.9  (201
 Controls (Table):               Tablesort     tablesort             3.1.0   (2015-08) MIT             http://tristen.ca/tablesort/demo/
 Controls (Table):               Clusterize.js clusterize            0.12.0  (2015-08) MIT             http://nexts.github.io/Clusterize.js/
 Controls (Spreadsheet):         Handsontable  handsontable          0.18.0  (2015-09) MIT             http://handsontable.com/
+Controls (Spreadsheet):         jsGrid        js-grid               1.2.0   (2015-10) MIT             http://js-grid.com/
 Controls (Spreadsheet):         SlickGrid     slickgrid             2.1.0   (2013-07) MIT             https://github.com/mleibman/SlickGrid/
 Controls (Spreadsheet/Pivot):   Orb.js        orb                   1.0.9   (2015-06) MIT             http://orbjs.net/
 Controls (Spreadsheet/Pivot):   PivotTable.js pivottable            1.6.3   (2015-06) MIT             http://nicolas.kruchten.com/pivottable/
@@ -123,20 +124,20 @@ Typography (Kerning):           Type.js       type.js               CURRENT (201
 Typography (Animation):         Blast.js      blast-text            2.0.0   (2015-02) MIT             http://julian.com/research/blast/
 Typography (Animation):         Textillate    textillate            0.4.0   (2015-03) WTFPL           http://jschr.github.io/textillate/
 
-Feature Detection:              Modernizr     modernizr             2.8.3   (2014-07) MIT             http://modernizr.com/
+Feature Detection:              Modernizr     modernizr             3.0.0   (2015-09) MIT             http://modernizr.com/
 Viewport Monitoring:            jQuery-Stage  jquery-stage          1.1.7   (2015-02) MIT             https://github.com/rse/jquery-stage (*)
 Accessibility Checking:         tota11y       tota11y               0.0.3   (2015-06) MIT             http://khan.github.io/tota11y/
 
 Markup Management:              jQuery-Markup jquery-markup         1.0.34  (2015-02) MIT             https://github.com/rse/jquery-markup (*)
 Markup Templating:              Nunjucks      nunjucks              1.3.4   (2015-04) BSD             http://mozilla.github.io/nunjucks/
 Data Binding (1):               RactiveJS     ractive               0.7.3   (2015-04) MIT             http://www.ractivejs.org/
-Data Binding (2):               Vue.js        vue                   0.12.4  (2015-06) MIT             http://vuejs.org/
-Data Binding (3):               Rivets        rivets                0.8.1   (2015-03) MIT             http://rivetsjs.com/
-Data Binding (4):               jQueryMy      jquerymy              1.1.7   (2015-06) MIT             http://jquerymy.com/
-Data Binding (5):               Knockout      knockout              3.3.0   (2015-02) MIT             http://knockoutjs.com/
-Data Binding (6):               way.js        way.js                CURRENT (2014-07) MIT             http://gwendall.github.io/way/
-Data Binding (7):               databind      databind              0.4.1   (2015-04) MIT             https://github.com/grnadav/databind
-Data Binding (8):               Riot          riot                  2.2.1   (2015-06) MIT             https://muut.com/riotjs/
+Data Binding (2):               Vue.js        vue                   1.0.0   (2015-10) MIT             http://vuejs.org/
+Data Binding (3):               Riot          riot                  2.3.0   (2015-10) MIT             https://riotjs.com/
+Data Binding (4):               Rivets        rivets                0.8.1   (2015-03) MIT             http://rivetsjs.com/
+Data Binding (5):               jQueryMy      jquerymy              1.1.7   (2015-06) MIT             http://jquerymy.com/
+Data Binding (6):               Knockout      knockout              3.3.0   (2015-02) MIT             http://knockoutjs.com/
+Data Binding (7):               way.js        way.js                CURRENT (2014-07) MIT             http://gwendall.github.io/way/
+Data Binding (8):               databind      databind              0.4.1   (2015-04) MIT             https://github.com/grnadav/databind
 Data Binding (9):               cycle         cycle                 1.0.0   (2015-07) MIT             http://cycle.js.org/
 Data Binding (10):              React         react                 0.13.3  (2015-08) BSD             http://facebook.github.io/react/
 Data Validation (1):            ParsleyJS     parsleyjs             2.1.2   (2015-06) MIT             http://parsleyjs.org/
@@ -234,6 +235,7 @@ ZIP Compression/Uncompression:  JSZip         jszip                 2.5.0   (201
 Multimedia Playing (Audio):     Howler        howler                1.1.26  (2015-04) MIT             http://howlerjs.com/
 Multimedia Playing (Video):     Video.js      video.js              4.12.10 (2015-06) Apache          http://www.videojs.com/
 Multimedia Playing (Geo. Map):  LeafletJS     leaflet               0.7.3   (2014-05) MIT             http://leafletjs.com/
+Multimedia Recording:           Timbre        timbre                14.11.25 (2015-12) MIT             http://mohayonao.github.io/timbre.js/
 
 Input Events (Keyboard):        MouseTrap     mousetrap             1.5.2   (2015-03) Apache          http://craig.is/killing/mice
 Input Events (Touch):           Hammer.js     hammerjs              2.0.4   (2014-09) MIT             http://hammerjs.github.io/
@@ -292,7 +294,8 @@ Functional Programming (2):     HighlandJS    highland              2.5.1   (201
 Functional Programming (3):     RamdaJS       ramda                 0.15.1  (2015-06) MIT             http://ramdajs.com/
 String Formatting:              sprintfjs     sprintfjs             1.1.9   (2015-04) MIT             https://github.com/rse/sprintfjs (*)
 String Manipulation:            stringjs      string                3.3.0   (2015-06) MIT             http://stringjs.com/
-Text Fonts:                     TypoPRO       typopro               3.2.1   (2015-06) Apache+OFL+PD   http://typopro.org (*)
+Font Loader:                    WebFontLoader webfontloader         1.6.16  (2015-12) Apache          https://github.com/typekit/webfontloader
+Font Collection:                TypoPRO       typopro               3.2.1   (2015-06) Apache+OFL+PD   http://typopro.org (*)
 Icon Fonts (1):                 Font-Awesome  font-awesome          4.3.0   (2015-01) MIT+OFL         http://fontawesome.io/
 Icon Fonts (2):                 Material-Design-Icons material-design-icons 2.0 (2015-07) CC-BY-4.0 http://google.github.io/material-design-icons/
 Unique Identifiers (1):         Pure-UUID     pure-uuid             1.0.4   (2015-06) MIT             https://github.com/rse/pure-uuid (*)

@@ -3,6 +3,6 @@
     "dependencies": {
         "sanitize.css":       "2.0.0",
         "jquery":             "2.1.4",
-        "typopro-web":        "3.2.1"
+        "typopro-web":        "3.4.2"
     }
 }
