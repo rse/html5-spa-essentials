@@ -59,6 +59,7 @@ DOM Manipulation (5):           Laroux        laroux                2.1.0   (201
 DOM Manipulation (6):           GrindstoneJS  grindstone            1.2.5   (2015-05) MIT             http://grindstonejs.drzwebdev.com/
 DOM Manipulation (7):           Sprint        sprint.js             CURRENT (2015-04) MIT             https://github.com/bendc/sprint
 DOM Manipulation (8):           DOMTastic     domtastic             0.11.1  (2015-07) MIT             http://webpro.github.io/DOMtastic/
+DOM Manipulation (9):           SmallJS       smalljs               CURRENT (2015-10) MIT             https://github.com/eatonphil/smalljs
 DOM Updating (1):               VirtualDOM    virtual-dom           2.0.1   (2015-07) MIT             https://github.com/Matt-Esch/virtual-dom
 DOM Updating (2):               FastDOM       fastdom               0.8.6   (2015-07) MIT             https://github.com/wilsonpage/fastdom
 DOM Event Delegation:           DOM-Delegate  dom-delegate          2.0.3   (2014-08) MIT             https://github.com/ftlabs/ftdomdelegate
@@ -68,6 +69,7 @@ UI Framework (2):               jQuery-UI     jqueryui              1.11.4  (201
 UI Framework (3):               Bootstrap     bootstrap             3.3.5   (2015-06) MIT             http://getbootstrap.com/
 UI Framework (4):               Kendo-UI-Core kendo-ui-core         2015.2.624 (2015-06) Apache       http://www.telerik.com/kendo-ui
 UI Framework (5):               Material-Design-Lite material-design-lite 1.0.0 (2015-07) Apache      http://www.getmdl.io/
+UI Framework (6):               Semantic      semantic              2.1.7   (2015-12) MIT             http://semantic-ui.com/
 
 Controls (Selection):           Select2       select2               4.0.0   (2015-04) Apache/GPL      http://ivaynberg.github.com/select2/
 Controls (Instructions):        Intro.js      intro.js              1.1.0   (2015-08) MIT             http://usablica.github.io/intro.js/
@@ -112,11 +114,13 @@ Controls (Header):              Headroom.js   headroom.js           0.7.0   (201
 Controls (Resizing):            Clay          clay                  0.1.2   (2015-07) MIT             http://zzarcon.github.io/clay/
 Controls (Datepicker):          Pikaday       pikaday               1.4.0   (2015-10) MIT             http://dbushell.github.io/Pikaday/
 Controls (Colorpicker):         Spectrum      spectrum              1.8.0   (2015-12) MIT             https://github.com/bgrins/spectrum
+Controls (Timeline):            labella.js    labella.js            0.1.1   (2015-11) Apache          https://github.com/twitter/labella.js
 
 Layouting (Pages):              Swiper.js     swiper                3.0.8   (2015-06) MIT/GPL         http://www.idangero.us/swiper/
 Layouting (Tiles):              Masonry       masonry               3.3.0   (2015-04) MIT             http://masonry.desandro.com/
 Layouting (Tiles):              Gridster      gridster              0.5.6   (2014-09) MIT             http://gridster.net/
 Layouting (Slider):             Slick         slick-carousel        1.5.5   (2015-05) MIT             http://kenwheeler.github.io/slick/
+Layouting (Splits):             Split.js      Split.js              1.0.6   (2015-12) MIT             http://nathancahill.github.io/Split.js/
 
 Typography (Sizing):            FitText       FitText.js            1.2.0   (2014-08) WTFPL           http://wicky.nillia.ms/headroom.js/
 Typography (Sizing):            Font-To-Width font-to-width         CURRENT (2015-02) MIT             http://font-to-width.com/
@@ -181,6 +185,7 @@ Physics Engine (3D):            Physijs       Physijs               CURRENT (201
 
 Data Visualization:             D3            d3                    3.5.5   (2015-02) BSD             http://d3js.org/
 Data Visualization (Reusing):   d3.chart      d3-chart              0.2.1   (2014-09) MIT             https://github.com/misoproject/d3.chart
+Data Visualization (Charting):  Plotly.js     plotly.js             1.3.0   (2015-12) MIT             https://plot.ly/javascript/
 Data Visualization (Charting):  D3Plus        d3plus                1.7.4   (2015-06) MIT             http://d3plus.org/
 Data Visualization (Charting):  Dimple        dimple                2.1.2   (2014-10) MIT             http://dimplejs.org/
 Data Visualization (Charting):  NVD3          nvd3                  1.8.1   (2015-06) Apache          http://nvd3.org
@@ -198,6 +203,8 @@ Data Visualization (Timeseries): Rickshaw     rickshaw              1.5.1   (201
 Data Visualization (Timeseries): Cubism.js    cubism                1.6.0   (2015-09) Apache          https://square.github.io/cubism/
 Data Visualization (Diagrams):  JointJS       joint                 0.9.3   (2015-02) MPL             http://www.jointjs.com
 Data Visualization (Layouting): Cola          webcola               3.1.2   (2015-04) MIT             http://marvl.infotech.monash.edu/webcola/
+Data Visualization (Primitives): d3-shape     d3-shape              0.3.0   (2015-12) BSD             https://github.com/d3/d3-shape
+Data Visualization (Setup):     d3kit         d3kit                 1.0.9   (2015-09) MIT             https://github.com/twitter/d3kit
 Data Charting:                  Chartist.JS   chartist              0.9.4   (2015-08) WTF             http://gionkunz.github.io/chartist-js/
 Data Charting:                  ChartJS       Chart.js              2.0.0-a3 (2015-09) MIT            http://www.chartjs.org/
 
@@ -276,6 +283,7 @@ Markdown Parsing (1):           Marked        marked                0.3.3   (201
 Markdown Parsing (2):           Markdown-JS   markdown              0.6.0b1 (2013-09) MIT             https://github.com/evilstreak/markdown-js
 JavaScript Parsing (1):         Esprima       esprima               2.4.0   (2015-06) BSD             http://esprima.org/
 JavaScript Parsing (2):         Acorn         acorn                 2.0.4   (2015-06) MIT             https://github.com/marijnh/acorn
+HTML5 Parsing:                  parse5        parse5                2.0.2   (2015-12) MIT             https://github.com/inikulin/parse5
 CSV Parsing:                    PapaParse     papaparse.js          4.1.1   (2015-04) MIT             http://papaparse.com/
 YAML Parsing:                   JS-YAML       js-yaml               3.3.1   (2015-05) MIT             https://github.com/nodeca/js-yaml
 
@@ -325,6 +333,12 @@ WAMP Communication:             AutobahnJS    autobahn              0.9.6   (201
 Websocket Communication (1):    Socket.IO     socket.io             1.3.5   (2015-03) MIT             http://socket.io/
 Websocket Communication (2):    SockJS        sockjs-client         1.0.0   (2015-05) MIT             http://sockjs.org/
 Git Communication:              JS-Git        js-git                0.7.7   (2014-12) MIT             https://github.com/creationix/js-git
+
+Progressive Image Loading:      Layzr.js      layzr.js              1.4.3   (2015-06) MIT             https://github.com/callmecavs/layzr.js
+Progressive Animations:         ScrollReveal  scrollreveal          3.0.5   (2016-01) MIT             https://scrollrevealjs.org/
+Image Color Extraction (1):     Vibrant.js    vibrant               1.0     (2015-05) MIT             http://jariz.github.io/vibrant.js/
+Image Color Extraction (2):     Color-Thief   color-thief           2.0.1   (2015-10) MIT             http://lokeshdhakar.com/projects/color-thief/
+Image Color Extraction (3):     jQuery-Adaptive-Backgrounds jquery.adaptive-backgrounds.js 1.0.3 (2015-06) MIT https://github.com/briangonzalez/jquery.adaptive-backgrounds.js
 
 Backend_Functionality           Product_Name  NPM_Id                Version Date      License         URL
 =============================== ============= ===================== ======= ========= =============== ========================
