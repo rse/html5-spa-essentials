@@ -115,6 +115,7 @@ Controls (Resizing):            Clay          clay                  0.1.2   (201
 Controls (Datepicker):          Pikaday       pikaday               1.4.0   (2015-10) MIT             http://dbushell.github.io/Pikaday/
 Controls (Colorpicker):         Spectrum      spectrum              1.8.0   (2015-12) MIT             https://github.com/bgrins/spectrum
 Controls (Timeline):            labella.js    labella.js            0.1.1   (2015-11) Apache          https://github.com/twitter/labella.js
+Controls (Copy to Clipboard):   Zeroclopboard zeroclipboard         2.2.0   (2015-12) MIT             http://zeroclipboard.org/
 
 Layouting (Pages):              Swiper.js     swiper                3.0.8   (2015-06) MIT/GPL         http://www.idangero.us/swiper/
 Layouting (Tiles):              Masonry       masonry               3.3.0   (2015-04) MIT             http://masonry.desandro.com/
