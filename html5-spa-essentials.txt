@@ -132,7 +132,8 @@ Typography (Kerning):           Type.js       type.js               CURRENT (201
 Typography (Animation):         Blast.js      blast-text            2.0.0   (2015-02) MIT             http://julian.com/research/blast/
 Typography (Animation):         Textillate    textillate            0.4.0   (2015-03) WTFPL           http://jschr.github.io/textillate/
 
-Feature Detection:              Modernizr     modernizr             3.0.0   (2015-09) MIT             http://modernizr.com/
+Feature Detection (1):          Modernizr     modernizr             3.0.0   (2015-09) MIT             http://modernizr.com/
+Feature Detection (2):          Feature.js    feature.js            1.0.0   (2016-01) MIT             http://featurejs.com/
 Viewport Monitoring:            jQuery-Stage  jquery-stage          1.1.7   (2015-02) MIT             https://github.com/rse/jquery-stage (*)
 Accessibility Checking:         tota11y       tota11y               0.0.3   (2015-06) MIT             http://khan.github.io/tota11y/
 
