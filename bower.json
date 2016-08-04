@@ -2,7 +2,7 @@
     "name": "html5-spa-essentials",
     "dependencies": {
         "sanitize.css":       "2.0.0",
-        "jquery":             "2.2.4",
-        "typopro-web":        "3.4.5"
+        "jquery":             "3.1.0",
+        "typopro-web":        "3.4.9"
     }
 }
