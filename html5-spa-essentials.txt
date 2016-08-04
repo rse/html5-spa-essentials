@@ -73,6 +73,7 @@ UI Framework (5):               Material-Design-Lite material-design-lite 1.0.0 
 UI Framework (6):               Semantic      semantic              2.1.7   (2015-12) MIT             http://semantic-ui.com/
 
 Controls (Selection):           Select2       select2               4.0.0   (2015-04) Apache/GPL      http://ivaynberg.github.com/select2/
+Controls (Multirange):          Multirange    multirange            CURRENT (2016-06) MIT             http://leaverou.github.io/multirange/
 Controls (Instructions):        Intro.js      intro.js              1.1.0   (2015-08) MIT             http://usablica.github.io/intro.js/
 Controls (Instructions):        Chardin.js    chardin.js            0.1.3   (2014-02) Apache          http://heelhook.github.io/chardin.js/
 Controls (Instructions):        Bootstraptour bootstraptour         0.10.2  (2015-02) Apache          http://bootstraptour.com/
@@ -254,6 +255,7 @@ Multimedia Recording:           Timbre        timbre                14.11.25 (20
 Input Events (Keyboard):        MouseTrap     mousetrap             1.5.2   (2015-03) Apache          http://craig.is/killing/mice
 Input Events (Touch):           Hammer.js     hammerjs              2.0.4   (2014-09) MIT             http://hammerjs.github.io/
 Input Events (Touch):           FastClick     fastclick             1.0.5   (2015-01) MIT             https://github.com/ftlabs/fastclick
+Input Events (Touch):           ZingTouch     zingtouch             1.0.0   (2016-06) MIT             https://github.com/zingchart/zingtouch
 
 Data Storage (Memory):          NeDB          nedb                  CURRENT (2015-04) MIT             https://github.com/louischatriot/nedb
 Data Storage (Cookie):          JS-Cookie     js-cookie             2.1.0   (2015-12) MIT             https://github.com/js-cookie/js-cookie
@@ -330,10 +332,11 @@ Polyfill ECMAScript 5:          ES5-Shim      es5-shim              4.1.7   (201
 Polyfill ECMAScript 6:          ES6-Shim      es6-shim              0.32.3  (2015-06) MIT             https://github.com/paulmillr/es6-shim/
 
 Resource Loading:               curl          curl                  0.8.12  (2014-11) MIT             https://github.com/cujojs/curl
-AJAX Communication (1):         SuperAgent    superagent            1.2.0   (2015-04) MIT             http://visionmedia.github.io/superagent/
-AJAX Communication (2):         REST          rest                  1.3.1   (2015-04) MIT             https://github.com/cujojs/rest
-AJAX Communication (3):         Reqwest       reqwest               2.0.3   (2015-09) MIT             https://github.com/ded/reqwest
-AJAX Communication (4):         qwest         qwest                 2.0.7   (2015-09) MIT             https://github.com/pyrsmk/qwest
+AJAX Communication (1):         Axios         axios                 0.13.1  (2016-08) MIT             https://github.com/mzabriskie/axios
+AJAX Communication (2):         SuperAgent    superagent            1.2.0   (2015-04) MIT             http://visionmedia.github.io/superagent/
+AJAX Communication (3):         REST          rest                  1.3.1   (2015-04) MIT             https://github.com/cujojs/rest
+AJAX Communication (4):         Reqwest       reqwest               2.0.3   (2015-09) MIT             https://github.com/ded/reqwest
+AJAX Communication (5):         qwest         qwest                 2.0.7   (2015-09) MIT             https://github.com/pyrsmk/qwest
 WAMP Communication:             AutobahnJS    autobahn              0.9.6   (2015-03) MIT             http://autobahn.ws/js/
 Websocket Communication (1):    Socket.IO     socket.io             1.3.5   (2015-03) MIT             http://socket.io/
 Websocket Communication (2):    SockJS        sockjs-client         1.0.0   (2015-05) MIT             http://sockjs.org/
@@ -392,6 +395,7 @@ Unique Identifiers (2):         Node-UUID     node-uuid             1.4.3   (201
 Mathematical Calculations:      Long.js       long                  2.2.5   (2015-06) Apache          https://github.com/dcodeIO/Long.js
 Cryptography (1):               CryptoJS      crypto-js             3.1.5   (2013-12) MIT             https://github.com/brix/crypto-js
 Cryptography (2):               SJCL          sjcl                  1.0.3   (2015-03) MIT             https://github.com/bitwiseshiftleft/sjcl/
+Cryptography (2):               PCG-Random    pcg-random            1.0.0   (2015-09) MIT             https://github.com/thomcc/pcg-random
 Data Structure Validation (1):  Ducky         ducky                 2.2.1   (2015-07) MIT             http://duckyjs.com/ (*)
 Data Structure Validation (2):  JOI           joi                   6.5.0   (2015-06) BSD             https://github.com/hapijs/joi
 
