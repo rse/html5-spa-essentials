@@ -237,7 +237,7 @@ File Saving:                    FileSaver.js  file-saver.js         CURRENT (201
 File Viewing:                   ViewerJS      viewerjs              0.5.7   (2015-04) AGPL            http://viewerjs.org/
 ODF Rendering:                  WebODF        webodf                0.5.7   (2015-04) AGPL            http://webodf.org/
 PDF Rendering:                  PDF.js        pdfjs                 1.1.215 (2015-06) Apache          http://mozilla.github.io/pdf.js/
-PDF Generation (1):             PDFKit        pdfkit                0.7.1   (2015-03) MIT             http://pdfkit.org/
+PDF Generation (1):             PDFKit        pdfkit                0.8.0   (2016-08) MIT             http://pdfkit.org/
 PDF Generation (2):             jsPDF         jspdf                 1.1.135 (2015-06) MIT             http://jspdf.com/
 XLSX Parsing & Generation:      JS-XLSX       js-xlsx               0.8.0   (2015-03) Apache          https://github.com/SheetJS/js-xlsx
 OTF/TTF Parsing & Generation:   OpenType.js   opentype.js           0.4.9   (2015-06) MIT             http://opentype.js.org/
@@ -265,6 +265,7 @@ Data Storage (LocalStorage):    Store.js      store.js              1.3.17  (201
 Data Indexing:                  Lunr.js       lunr.js               0.5.10  (2015-06) MIT             http://lunrjs.com/
 Data Serialization (JSON):      Cryo          cryo                  CURRENT (2013-10) MIT             https://github.com/hunterloftis/cryo
 Data Serialization (CBOR):      cbor-js       cbor                  CURRENT (2014-07) MIT             https://github.com/paroga/cbor-js/
+Data Serialization (SuperPack): superpack     superpack             2.0.0   (2016-08) MIT             https://github.com/shapesecurity/superpack-js
 Data Serialization (MsgPack):   msgpack-js    msgpack-js            0.3.0   (2013-07) MIT             https://github.com/creationix/msgpack-js
 Data Serialization (ProtoBuf):  ProtoBuf.js   protobuf              4.0.0   (2015-06) Apache          https://github.com/dcodeIO/ProtoBuf.js/
 Data Buffer:                    ByteBuffer    bytebuffer            4.0.0   (2015-06) Apache          https://github.com/dcodeIO/ByteBuffer.js
