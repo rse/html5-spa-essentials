@@ -71,6 +71,7 @@ UI Framework (3):               Bootstrap     bootstrap             3.3.5   (201
 UI Framework (4):               Kendo-UI-Core kendo-ui-core         2015.2.624 (2015-06) Apache       http://www.telerik.com/kendo-ui
 UI Framework (5):               Material-Design-Lite material-design-lite 1.0.0 (2015-07) Apache      http://www.getmdl.io/
 UI Framework (6):               Semantic      semantic              2.1.7   (2015-12) MIT             http://semantic-ui.com/
+UI Framework (7):               OnsenUI       onsenui               2.0.0   (2016-09) Apache          https://onsen.io/
 
 Controls (Selection):           Select2       select2               4.0.0   (2015-04) Apache/GPL      http://ivaynberg.github.com/select2/
 Controls (Multirange):          Multirange    multirange            CURRENT (2016-06) MIT             http://leaverou.github.io/multirange/
@@ -115,10 +116,11 @@ Controls (Tooltip):             ToolTipster   tooltipster           3.3.0   (201
 Controls (Sidebar):             Simpler-Sidebar simpler-sidebar     1.2.3   (2015-06) MIT             http://dcdeiv.github.io/simpler-sidebar/
 Controls (Header):              Headroom.js   headroom.js           0.7.0   (2014-07) MIT             http://wicky.nillia.ms/headroom.js/
 Controls (Resizing):            Clay          clay                  0.1.2   (2015-07) MIT             http://zzarcon.github.io/clay/
+Controls (Datepicker):          Bootstrap-Datepicker bootstrap-datepicker 1.6.4 (2016-08) Apache      https://eternicode.github.io/bootstrap-datepicker/
 Controls (Datepicker):          Pikaday       pikaday               1.4.0   (2015-10) MIT             http://dbushell.github.io/Pikaday/
 Controls (Colorpicker):         Spectrum      spectrum              1.8.0   (2015-12) MIT             https://github.com/bgrins/spectrum
 Controls (Timeline):            labella.js    labella.js            0.1.1   (2015-11) Apache          https://github.com/twitter/labella.js
-Controls (Copy to Clipboard):   Zeroclopboard zeroclipboard         2.2.0   (2015-12) MIT             http://zeroclipboard.org/
+Controls (Copy to Clipboard):   Zeroclipboard zeroclipboard         2.2.0   (2015-12) MIT             http://zeroclipboard.org/
 
 Layouting (Pages):              Swiper.js     swiper                3.0.8   (2015-06) MIT/GPL         http://www.idangero.us/swiper/
 Layouting (Tiles):              Masonry       masonry               3.3.0   (2015-04) MIT             http://masonry.desandro.com/
