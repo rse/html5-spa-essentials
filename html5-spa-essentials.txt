@@ -131,6 +131,7 @@ Layouting (Splits):             Split.js      Split.js              1.0.6   (201
 Typography (Sizing):            FitText       FitText.js            1.2.0   (2014-08) WTFPL           http://wicky.nillia.ms/headroom.js/
 Typography (Sizing):            Font-To-Width font-to-width         CURRENT (2015-02) MIT             http://font-to-width.com/
 Typography (Sizing):            FlowType      flowtype              1.1.0   (2014-08) MIT             http://simplefocus.com/flowtype/
+Typography (Sizing):            Shave         shave                 0.2.2   (2016-11) MIT             https://dollarshaveclub.github.io/shave/
 Typography (Kerning):           Lettering     letteringjs           0.7.0   (2014-11) WTFPL           http://letteringjs.com/
 Typography (Kerning):           Kerning       kerning.js            CURRENT (2013-06) MIT             http://kerningjs.com/
 Typography (Kerning):           Type.js       type.js               CURRENT (2015-06) MIT             http://typejs.org/
@@ -174,6 +175,7 @@ Animations (Physics):           DynamicsJS    dynamics.js           0.0.7   (201
 Animations (Abstraction):       Tweene        tweene                0.5.8   (2015-06) Artistic        http://tweene.com
 Animations (Fast):              Velocity      velocity              1.2.2   (2015-02) MIT             http://velocityjs.org/
 Animations (Fast):              Transit       transit               0.9.12  (2014-07) MIT             http://ricostacruz.com/jquery.transit/
+Animations (Fast):              KUTE.js       kute.js               1.5.96  (2016-11) MIT             http://thednp.github.io/kute.js/
 Animations (Simple):            Animo.js      animo.js              1.0.2   (2014-05) MIT             http://labs.bigroomstudios.com/libraries/animo-js
 Animations (Complex):           Rekapi        rekapi                1.4.5   (2015-04) MIT             http://rekapi.com/
 Easing (Simple):                jQuery-Easing jquery-easing         CURRENT (2008-07) BSD             http://gsgd.co.uk/sandbox/jquery/easing/
@@ -182,6 +184,7 @@ Easing (Complex):               Shifty        shifty                1.5.0   (201
 Drawing (Canvas):               Fabric.js     fabric                1.5.0   (2015-04) MIT             http://fabricjs.com/
 Drawing (Canvas):               KonvaJS       konva                 0.9.5   (2015-05) MIT             http://konvajs.github.io/
 Drawing (SVG):                  Snap.svg      Snap.svg              0.4.1   (2015-04) Apache          http://snapsvg.io/
+Drawing (SVG):                  GraphicsJS    graphicsjs            1.0.0   (2016-09) BSD             http://www.graphicsjs.org/
 Drawing (WebGL):                Three.JS      threejs               r71     (2015-03) MIT             http://threejs.org/
 
 Physics Engine (2D):            P2.js         p2js                  0.6.1   (2015-03) MIT             http://schteppe.github.io/p2.js/
@@ -258,6 +261,7 @@ Multimedia Recording:           Timbre        timbre                14.11.25 (20
 
 Input Events (Keyboard):        MouseTrap     mousetrap             1.5.2   (2015-03) Apache          http://craig.is/killing/mice
 Input Events (Touch):           Hammer.js     hammerjs              2.0.4   (2014-09) MIT             http://hammerjs.github.io/
+Input Events (Touch):           AlloyFinger   alloyfinger           0.1.3   (2016-11) MIT             http://alloyteam.github.io/AlloyFinger/
 Input Events (Touch):           FastClick     fastclick             1.0.5   (2015-01) MIT             https://github.com/ftlabs/fastclick
 Input Events (Touch):           ZingTouch     zingtouch             1.0.0   (2016-06) MIT             https://github.com/zingchart/zingtouch
 
@@ -284,6 +288,7 @@ Data Model Filtering:           Pivot.js      pivot.js              CURRENT (201
 Text Language Detection:        Franc         franc                 1.1.0   (2015-06) LGPL            https://github.com/wooorm/franc
 Text Parsing (Regular):         XRegExp       xregexp               2.0.0   (2012-05) MIT             http://xregexp.com/
 Text Parsing (Context-Free):    PEG.js        pegjs                 0.8.0   (2013-12) MIT             http://pegjs.org/
+Text Parsing (Context-Free):    Nearley       nearley               2.7.10  (2016-12) MIT             http://nearley.js.org/
 Text Parsing Utilities (1):     PEG-OTF       pegjs-otf             1.0.6   (2015-06) MIT             https://github.com/rse/pegjs-otf (*)
 Text Parsing Utilities (2):     PEG-Util      pegjs-util            1.0.5   (2015-06) MIT             https://github.com/rse/pegjs-util (*)
 Text Parsing Utilities (3):     Tokenizr      tokenizr              0.9.3   (2015-06) MIT             https://github.com/rse/tokenizr (*)
@@ -303,6 +308,7 @@ Mathematical Calculations:      Long.js       long                  2.2.5   (201
 Mathematical Calculations:      Fraction.js   fraction.js           2.3.0   (2015-06) MIT/GPL         https://github.com/infusion/Fraction.js
 Mathematical Calculations:      Complex.js    complex.js            1.1.0   (2015-06) MIT/GPL         https://github.com/infusion/Complex.js
 Mathematical Calculations:      Algebra.js    algebra.js            0.1.0   (2015-07) MIT             http://algebra.js.org/
+Mathematical Calculations:      Turbo.js      turbojs               1.0.2   (2016-11) MIT             https://github.com/turbo/js
 Statistics:                     Simple-Statistics simple-statistics 1.0.1   (2015-12) ISC             http://simplestatistics.org/
 Vector Data-Structure:          Vectorious    vectorious            2.2.0   (2015-04) MIT             http://mateogianolio.github.io/vectorious/
 Cryptography:                   CryptoJS      crypto-js             3.1.5   (2013-12) MIT             https://github.com/brix/crypto-js
