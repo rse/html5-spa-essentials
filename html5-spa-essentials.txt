@@ -288,6 +288,7 @@ Data Model Filtering:           Pivot.js      pivot.js              CURRENT (201
 Text Language Detection:        Franc         franc                 1.1.0   (2015-06) LGPL            https://github.com/wooorm/franc
 Text Parsing (Regular):         XRegExp       xregexp               2.0.0   (2012-05) MIT             http://xregexp.com/
 Text Parsing (Context-Free):    PEG.js        pegjs                 0.8.0   (2013-12) MIT             http://pegjs.org/
+Text Parsing (Context-Free):    Nearley       nearley               2.7.10  (2016-12) MIT             http://nearley.js.org/
 Text Parsing Utilities (1):     PEG-OTF       pegjs-otf             1.0.6   (2015-06) MIT             https://github.com/rse/pegjs-otf (*)
 Text Parsing Utilities (2):     PEG-Util      pegjs-util            1.0.5   (2015-06) MIT             https://github.com/rse/pegjs-util (*)
 Text Parsing Utilities (3):     Tokenizr      tokenizr              0.9.3   (2015-06) MIT             https://github.com/rse/tokenizr (*)
