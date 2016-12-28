@@ -120,7 +120,9 @@ Controls (Datepicker):          Bootstrap-Datepicker bootstrap-datepicker 1.6.4 
 Controls (Datepicker):          Pikaday       pikaday               1.4.0   (2015-10) MIT             http://dbushell.github.io/Pikaday/
 Controls (Colorpicker):         Spectrum      spectrum              1.8.0   (2015-12) MIT             https://github.com/bgrins/spectrum
 Controls (Timeline):            labella.js    labella.js            0.1.1   (2015-11) Apache          https://github.com/twitter/labella.js
+Controls (Photo Slideshow):     PhotoSwipe    photoswipe            4.1.1   (2015-12) MIT             http://photoswipe.com/
 Controls (Copy to Clipboard):   Zeroclipboard zeroclipboard         2.2.0   (2015-12) MIT             http://zeroclipboard.org/
+Controls (Copy to Clipboard):   Clipboard.js  clipboard             1.5.16  (2016-12) MIT             https://github.com/zenorocha/clipboard.js
 
 Layouting (Pages):              Swiper.js     swiper                3.0.8   (2015-06) MIT/GPL         http://www.idangero.us/swiper/
 Layouting (Tiles):              Masonry       masonry               3.3.0   (2015-04) MIT             http://masonry.desandro.com/
@@ -221,6 +223,7 @@ Data Charting:                  ChartJS       Chart.js              2.0.0-a3 (20
 Graph (Data Structure)          Cytoscape.js  cytoscape             2.4.2   (2015-06) LGPL            http://js.cytoscape.org/
 Graph (Data Structure)          GraphLib      graphlib              1.0.4   (2015-05) MIT             https://github.com/cpettitt/graphlib
 Graph (Layouting)               Dagre         dagre-d3              0.4.8   (2015-05) MIT             https://github.com/cpettitt/dagre-d3
+Graph (Layouting)               Sigma.js      sigma                 1.2.0   (2016-11) MIT             https://github.com/jacomyal/sigma.js
 
 Syntax Editing:                 CodeMirror    codemirror            5.4.0   (2015-06) MIT             http://codemirror.net/
 Syntax Formatting:              HighlightJS   highlightjs           8.6.0   (2015-05) MIT             http://highlightjs.org/
@@ -336,6 +339,7 @@ Unique Identifiers (2):         Node-UUID     node-uuid             1.4.3   (201
 Unique Identifiers (3):         UUID-js       uuid-js               0.7.5   (2013-06) Apache          https://github.com/aurigadl/uuid-js
 Promises (Full-Featured):       Bluebird      bluebird              2.9.30  (2015-06) MIT             https://github.com/petkaantonov/bluebird
 Promises (Embeddable, Minimum): Thenable      -                     1.0.7   (2014-10) MIT             https://github.com/rse/thenable
+Asynchronous Programming:       Async         async                 2.1.4   (2016-12) MIT             https://github.com/caolan/async
 Object Orientation:             JSClass       jsclass               4.0.5   (2014-03) MIT             http://jsclass.jcoglan.com/
 Component System:               ComponentJS   componentjs           1.2.6   (2015-04) MPL             http://componentjs.com/          (*)
 
