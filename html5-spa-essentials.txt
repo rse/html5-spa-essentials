@@ -324,7 +324,10 @@ Neural Networks (3):            Synaptic      synaptic              1.0.1   (201
 Neural Networks (4):            Brain         brain                 0.7.0   (2014-07) MIT             https://github.com/harthur/brain
 
 Reactive Programming (1):       RxJS          rx                    3.1.2   (2015-09) Apache          http://reactivex.io/
-Reactive Programming (2):       Kefir         kefir                 2.8.2   (2015-09) MIT             https://rpominov.github.io/kefir/
+Reactive Programming (2):       Most.js       most                  1.1.1   (2016-12) MIT             https://github.com/cujojs/most
+Reactive Programming (3):       xstream       xstream               10.0.0  (2016-12) MIT             http://staltz.com/xstream/
+Reactive Programming (4):       Kefir         kefir                 2.8.2   (2015-09) MIT             https://rpominov.github.io/kefir/
+Reactive Programming (5):       Bacon         bacon                 0.7.89  (2016-12) MIT             https://baconjs.github.io/
 Functional Programming (1):     Lodash        lodash                3.9.3   (2015-05) MIT             http://lodash.com/
 Functional Programming (2):     HighlandJS    highland              2.5.1   (2015-05) Apache          http://highlandjs.org/
 Functional Programming (3):     RamdaJS       ramda                 0.15.1  (2015-06) MIT             http://ramdajs.com/
@@ -365,6 +368,7 @@ Progressive Animations:         ScrollReveal  scrollreveal          3.0.5   (201
 Image Color Extraction (1):     Vibrant.js    vibrant               1.0     (2015-05) MIT             http://jariz.github.io/vibrant.js/
 Image Color Extraction (2):     Color-Thief   color-thief           2.0.1   (2015-10) MIT             http://lokeshdhakar.com/projects/color-thief/
 Image Color Extraction (3):     jQuery-Adaptive-Backgrounds jquery.adaptive-backgrounds.js 1.0.3 (2015-06) MIT https://github.com/briangonzalez/jquery.adaptive-backgrounds.js
+Image Difference Detection:     Diffy.js      diffyjs               1.1.1   (2017-01) MIT             https://github.com/maniart/diffyjs
 
 Backend_Functionality           Product_Name  NPM_Id                Version Date      License         URL
 =============================== ============= ===================== ======= ========= =============== ========================
@@ -416,4 +420,5 @@ Cryptography (2):               SJCL          sjcl                  1.0.3   (201
 Cryptography (2):               PCG-Random    pcg-random            1.0.0   (2015-09) MIT             https://github.com/thomcc/pcg-random
 Data Structure Validation (1):  Ducky         ducky                 2.2.1   (2015-07) MIT             http://duckyjs.com/ (*)
 Data Structure Validation (2):  JOI           joi                   6.5.0   (2015-06) BSD             https://github.com/hapijs/joi
+Timer:                          Marky         marky                 1.1.1   (2017-01) Apache          https://github.com/nolanlawson/marky
 
