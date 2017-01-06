@@ -224,6 +224,7 @@ Graph (Data Structure)          Cytoscape.js  cytoscape             2.4.2   (201
 Graph (Data Structure)          GraphLib      graphlib              1.0.4   (2015-05) MIT             https://github.com/cpettitt/graphlib
 Graph (Layouting)               Dagre         dagre-d3              0.4.8   (2015-05) MIT             https://github.com/cpettitt/dagre-d3
 Graph (Layouting)               Sigma.js      sigma                 1.2.0   (2016-11) MIT             https://github.com/jacomyal/sigma.js
+Graph (Layouting)               Viz.js        viz.js                1.4.1   (2017-01) MIT             http://mdaines.github.io/viz.js/
 
 Syntax Editing:                 CodeMirror    codemirror            5.4.0   (2015-06) MIT             http://codemirror.net/
 Syntax Formatting:              HighlightJS   highlightjs           8.6.0   (2015-05) MIT             http://highlightjs.org/
