@@ -178,6 +178,8 @@ Animations (Abstraction):       Tweene        tweene                0.5.8   (201
 Animations (Fast):              Velocity      velocity              1.2.2   (2015-02) MIT             http://velocityjs.org/
 Animations (Fast):              Transit       transit               0.9.12  (2014-07) MIT             http://ricostacruz.com/jquery.transit/
 Animations (Fast):              KUTE.js       kute.js               1.5.96  (2016-11) MIT             http://thednp.github.io/kute.js/
+Animations (Simple):            Animate.css   animate.css           3.5.2   (2016-07) MIT             https://daneden.github.io/animate.css/
+Animations (Simple):            Tuesday.css   tuesday.css           1.1.0   (2016-03) MIT             https://github.com/ShakrMedia/tuesday
 Animations (Simple):            Animo.js      animo.js              1.0.2   (2014-05) MIT             http://labs.bigroomstudios.com/libraries/animo-js
 Animations (Complex):           Rekapi        rekapi                1.4.5   (2015-04) MIT             http://rekapi.com/
 Easing (Simple):                jQuery-Easing jquery-easing         CURRENT (2008-07) BSD             http://gsgd.co.uk/sandbox/jquery/easing/
